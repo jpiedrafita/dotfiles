@@ -2,3 +2,5 @@ alias config='/usr/bin/git --git-dir=/home/chorche/.dotfiles/ --work-tree=/home/
 alias size='du -hs'
 alias ll='ls -la'
 alias configpush='config push -u origin master'
+alias configadd="config add `config status | grep modificados | sed 's/\(.*modificados:\s*\)//'`"
+

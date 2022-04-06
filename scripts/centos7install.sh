@@ -24,7 +24,6 @@ brew install gh
 
 ###############################
 
-
 # Create Alias for git .dotfiles
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 mkdir .zah && touch $HOME/.zsh/aliases
@@ -41,4 +40,4 @@ yum install -y chrome-gnome-shell gnome-tweak-tool sassc intltool
 # Enable gnome classic/modern
 
 # Install conky
-
+yum install conky conky-manager

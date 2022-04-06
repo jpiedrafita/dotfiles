@@ -1,0 +1,21 @@
+Conky Metro Clock is a minimalist conky configuration which resembles the Metro Style clock appearing in the Windows 8 screensaver. The font used is "Open Sans Light".
+
+Nothing fancy. Just shows date and time.
+
+---
+
+Installation Instructions:
+
+1. First install conky if you don't have it.
+
+2. Extract the files .conkyrc and .conky_start.sh to your home folder.
+
+3. Run "chmod +x ~/.conky_start.sh" in a Terminal.
+
+3. Add ~/.conky_start.sh to your Startup Applications.
+
+4. Enjoy!
+
+---
+
+License: GPL-3.0+
