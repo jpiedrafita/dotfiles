@@ -4,7 +4,7 @@
     <application id="xarchiver.desktop" open-window-count="0" score="5.5" last-seen="1648927560"/>
     <application id="conky-manager.desktop" open-window-count="0" score="71" last-seen="1648990606"/>
     <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1648629311"/>
-    <application id="firefox.desktop" open-window-count="2" score="24870.25" last-seen="1649228395"/>
+    <application id="firefox.desktop" open-window-count="2" score="24886.25" last-seen="1649229457"/>
     <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="14" last-seen="1648935490"/>
     <application id="org.gnome.Screenshot.desktop" open-window-count="0" score="1.5" last-seen="1648809039"/>
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="106" last-seen="1649225990"/>
@@ -16,9 +16,9 @@
     <application id="google-chrome.desktop" open-window-count="0" score="34.5" last-seen="1649078827"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="95" last-seen="1648992390"/>
     <application id="org.gnome.Dictionary.desktop" open-window-count="0" score="0" last-seen="1648925011"/>
-    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="44.5" last-seen="1648934120"/>
+    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="55.5" last-seen="1649229055"/>
     <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="23.5" last-seen="1648918130"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="1479.75" last-seen="1649228394"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="1588.75" last-seen="1649229457"/>
     <application id="spotify_spotify.desktop" open-window-count="0" score="0.25" last-seen="1648990606"/>
     <application id="org.gnome.DiskUtility.desktop" open-window-count="0" score="0" last-seen="1648925025"/>
     <application id="org.gnome.Weather.Application.desktop" open-window-count="0" score="2.5" last-seen="1648642251"/>
