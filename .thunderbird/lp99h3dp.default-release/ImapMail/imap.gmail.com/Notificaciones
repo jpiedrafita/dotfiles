@@ -1,0 +1,1587 @@
+From - Sat Apr  2 18:32:47 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: jorgepiedrafita@gmail.com
+Received: by 2002:ab0:688:0:0:0:0:0 with SMTP id g8csp26828uag;
+        Fri, 31 Jul 2020 04:24:36 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJxDoQdctZJdH43JhgS8wbKAMh9ndjpYvTvH8xFNDDw+pwXa5yfa6if9oVOEsqNkzBzsE6zx
+X-Received: by 2002:a7b:cb47:: with SMTP id v7mr3329801wmj.57.1596194676791;
+        Fri, 31 Jul 2020 04:24:36 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1596194676; cv=none;
+        d=google.com; s=arc-20160816;
+        b=c2etjIQ6zX643IrLnqxjkjuMdjH1K8zmCMnnMpu93ejbKXMWSSbUc1hdjv9WKvWmQ8
+         DW39MMDqTgedL4c+rjiPdUOuybNyZM0GA3Wj9ro+4JVYHkT3WL0Z7LwK27D96D8j1mre
+         IHQ0Xx17onj+NUYFjpK+rDo5R8M1YLJpbdN909wBsTMBK4XSxde280QZN8duZFBl4z+E
+         sQfMEC+tfW3BeWS6v7DnwCQq7c952X5r55TmHrm/E7ZmCKenXea4/Rz7wWRoDUo+f4Gy
+         tudSQZiX2eLgv3m2XqFBWp1qEox/sqiNn9PjbqoRjiPit+QJ7Nw7KGOf07a+SM+W0USg
+         2zDw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=CkCM189gU/+RlQzYJhmKHf38pgoGZGEPRXw48+JSesE=;
+        b=bzNbbj5SOtxmvoPbTIxvvruJxY0RJRQVbN3+OuUBgQNGaEbV8TxNksalrx5yQhY5SH
+         1FO8QmnAbZ1lHNFz0qyESMPJ2ZcY/lZ3Y/5V1OEFcAUc6+8rbPQg6hLV/7KM5lPFWzdG
+         l7bpkNFGSo9spZcfcmIk7h1UVnElH0hUiAEzxM2hZY417j4vaWiRv7sEiqxnEoZ6xgtI
+         j2qiF5gXzWYjmNNg/ngwlMu2SKDWR8tEi5dXBDwBMF+r4bHDj0uEOIODlxCstu4pzR75
+         VWRUOh1FD0DjlKiVGbxQaZU9I5kLXLM9R3BJml5LCrbfU5sngKjJte0eWTiPCESX1/Eh
+         RuLg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of newsletter@alertdiver.eu designates 136.243.163.47 as permitted sender) smtp.mailfrom=newsletter@alertdiver.eu;
+       dmarc=pass (p=QUARANTINE sp=NONE dis=NONE) header.from=alertdiver.eu
+Return-Path: <newsletter@alertdiver.eu>
+Received: from dan1.a6it.com (dan1.a6it.com. [136.243.163.47])
+        by mx.google.com with ESMTPS id e5si6130714wrs.478.2020.07.31.04.24.36
+        for <jorgepiedrafita@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 31 Jul 2020 04:24:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of newsletter@alertdiver.eu designates 136.243.163.47 as permitted sender) client-ip=136.243.163.47;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of newsletter@alertdiver.eu designates 136.243.163.47 as permitted sender) smtp.mailfrom=newsletter@alertdiver.eu;
+       dmarc=pass (p=QUARANTINE sp=NONE dis=NONE) header.from=alertdiver.eu
+Received: from dan-wais (host135-88-231-195.serverdedicati.aruba.it [195.231.88.135] (may be forged))
+	by dan1.a6it.com (8.14.7/8.14.7) with ESMTP id 06VBNabU012543
+	for <jorgepiedrafita@gmail.com>; Fri, 31 Jul 2020 13:23:36 +0200
+Date: Fri, 31 Jul 2020 13:23:36 +0200
+From: Alert Diver <newsletter@alertdiver.eu>
+Reply-To: No-Reply <no-reply@daneurope.org>
+To: jorgepiedrafita@gmail.com
+Message-ID: <229884324.133451596194616087.JavaMail.vivieb@dan-wais>
+Subject: =?UTF8?Q?Un_Reinicio_Seguro;_=C2=BFPor_qu=C3=A9_tener_un_segu?=
+ =?UTF8?Q?ro_de_buceo=3F:_Explorando_el_cenote_Xulo...?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_6721_2106299513.1596194616086"
+
+------=_Part_6721_2106299513.1596194616086
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table style=3D"border-collapse: collapse;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important=
+;mso-table-rspace: 0pt !important;border-spacing: 0 !important;table-layout=
+: fixed !important;margin: 0 auto !important;" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">       <tbody><tr=
+ style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-he=
+ight: 100%;">         <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-ta=
+ble-rspace: 0pt !important;"><center style=3D"width: 100%;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">              =
+            <!-- Visually Hidden Preheader Text : BEGIN -->             <di=
+v style=3D"display: none;font-size: 1px;line-height: 1px;max-height: 0px;ma=
+x-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-se=
+rif;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Nuevos art=
+=C3=ADculos, test y entradas en el blog para ayudarte a convertirte en un b=
+uceador m=C3=A1s preparado... </div>             <!-- Visually Hidden Prehe=
+ader Text : END -->                           <!-- Email Header : BEGIN -->=
+             <table style=3D"margin-top: 15px;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !impor=
+tant;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-c=
+ollapse: collapse !important;table-layout: fixed !important;margin: 0 auto =
+!important;" class=3D"email-container" width=3D"720" align=3D"center">     =
+            <tbody style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;">                   <tr style=3D"-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">         =
+               <td style=3D"color: #989898;font-family: 'Roboto', sans-seri=
+f;font-size: 14px;font-weight: 300;-webkit-text-size-adjust: none;-ms-text-=
+size-adjust: none;line-height: 100%;mso-table-lspace: 0pt !important;mso-ta=
+ble-rspace: 0pt !important;" height=3D"30" align=3D"right">&iquest;No logra=
+s visualizar el mail correctamente? <a target=3D"_blank" style=3D"color: #9=
+89898;text-decoration: none;outline: none;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;line-height: 100%;" href=3D"http://info.daneurope.=
+org/alertdiver/july2020/newsletterAD_ES.html"> <strong style=3D"-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">L=C3=A9e=
+lo aqu=C3=AD</strong></a></td>                     </tr>                   =
+                  </tbody>             </table>                          <t=
+able class=3D"email-container" style=3D"-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;m=
+so-table-rspace: 0pt !important;border-spacing: 0 !important;border-collaps=
+e: collapse !important;table-layout: fixed !important;margin: 0 auto !impor=
+tant;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcol=
+or=3D"#ffffff" align=3D"center">                                           =
+                    <!-- Three Even Columns : BEGIN -->             <tbody>=
+<tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line=
+-height: 100%;">                 <td style=3D"padding: 10px;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspa=
+ce: 0pt !important;mso-table-rspace: 0pt !important;" valign=3D"top" align=
+=3D"center"><table style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;table-layout: fixed !important;mso-table-lspac=
+e: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !impor=
+tant;border-collapse: collapse !important;margin: 0 auto !important;" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">                =
+     <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;line-height: 100%;">                     <td class=3D"stack-column-=
+center" style=3D"padding-right: 10px;padding-bottom: 10px;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace=
+: 0pt !important;mso-table-rspace: 0pt !important;" width=3D"50%" align=3D"=
+left"><table style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;line-height: 100%;table-layout: fixed !important;mso-table-lspace: 0pt=
+ !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;b=
+order-collapse: collapse !important;margin: 0 auto !important;" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">                         <tbody><tr s=
+tyle=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-heig=
+ht: 100%;">                         <td style=3D"padding: 0;cellspacing: 0;=
+text-align: left;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !i=
+mportant;"><img src=3D"http://www.daneurope.org/image/image_gallery?uuid=3D=
+cdb4bbc1-7dfd-4ed3-b0f2-dd2de0762c7d&amp;groupId=3D10103&amp;t=3D1478253022=
+307" style=3D"margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;hei=
+ght: auto;max-width: 100% !important;" alt=3D"alt_text" class=3D"fluid-logo=
+" width=3D"364" border=3D"0" /></td>                       </tr>           =
+                                                                           =
+  </tbody></table></td>                                            <td clas=
+s=3D"stack-column-center" style=3D"padding-right: 10px;padding-left: 10px;p=
+adding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt=
+ !important;" width=3D"50%"><table style=3D"-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;line-height: 100%;table-layout: fixed !important=
+;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-s=
+pacing: 0 !important;border-collapse: collapse !important;margin: 0 auto !i=
+mportant;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">               =
+          <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;line-height: 100%;">                         <td style=3D"padd=
+ing: 0;cellspacing: 10;text-align: center;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important=
+;mso-table-rspace: 0pt !important;"><a href=3D"https://www.facebook.com/dan=
+europe.spain/?ref=3Dbookmarks" style=3D"color: #d10019;text-decoration: non=
+e;outline: none;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;l=
+ine-height: 100%;" target=3D"_blank"><img src=3D"https://www.daneurope.org/=
+image/image_gallery?uuid=3D7347073b-7014-408c-be97-2e8b0f2f3311&amp;groupId=
+=3D10103&amp;t=3D1545238107243" style=3D"margin: 0px;padding: 0px;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms-inte=
+rpolation-mode: bicubic;" alt=3D"alt_text" class=3D"fluid" width=3D"32" hei=
+ght=3D"32" border=3D"0" /></a>                         <a href=3D"http://tw=
+itter.com/#!/DAN_Europe" style=3D"color: #d10019;text-decoration: none;outl=
+ine: none;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-he=
+ight: 100%;" target=3D"_blank">            <img src=3D"https://www.daneurop=
+e.org/image/image_gallery?uuid=3Dc0e7d8aa-6901-459b-a6fa-e3f8de4635e3&amp;g=
+roupId=3D10103&amp;t=3D1545238107302" style=3D"margin: 0px;padding: 0px;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-m=
+s-interpolation-mode: bicubic;" alt=3D"alt_text" class=3D"fluid " width=3D"=
+32" height=3D"32" border=3D"0" /></a>                         <a href=3D"ht=
+tp://www.youtube.com/user/DiversAlertNetwork" style=3D"color: #d10019;text-=
+decoration: none;outline: none;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;line-height: 100%;" target=3D"_blank"> <img src=3D"https://ww=
+w.daneurope.org/image/image_gallery?uuid=3Db7b8d824-ff27-4281-9d15-6626a1e3=
+7cb1&amp;groupId=3D10103&amp;t=3D1545238107313" style=3D"margin: 0px;paddin=
+g: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-heigh=
+t: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" class=3D"fluid" =
+width=3D"32" height=3D"32" border=3D"0" /></a>                         <a h=
+ref=3D"https://www.instagram.com/daneurope/" style=3D"color: #d10019;text-d=
+ecoration: none;outline: none;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;line-height: 100%;" target=3D"_blank">          <img src=3D"ht=
+tps://www.daneurope.org/image/image_gallery?uuid=3D362f5703-ccae-4341-9c30-=
+2db38483f233&amp;groupId=3D10103&amp;t=3D1545238107289" style=3D"margin: 0p=
+x;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;li=
+ne-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" class=3D=
+"fluid" width=3D"32" height=3D"32" border=3D"0" /></a></td>                =
+       </tr>                                                               =
+                                                </tbody></table></td>      =
+             </tr>                   </tbody></table></td>               </=
+tr>                            <!-- Three Even Columns : END -->           =
+  <!-- Three Even Columns : BEGIN -->                                      =
+   <!-- Three Even Columns : END -->                                       =
+           </tbody></table>             <!-- Email Header : END -->        =
+                   <!-- Email Body : BEGIN -->             <table class=3D"=
+email-container" style=3D"margin-bottom: 10px;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !impor=
+tant;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-c=
+ollapse: collapse !important;table-layout: fixed !important;margin: 0 auto =
+!important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=
+ bgcolor=3D"#ffffff" align=3D"center">                          <!-- Hero I=
+mage, Flush : BEGIN -->             <tbody><tr style=3D"-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">                =
+ <td class=3D"full-width-image" style=3D"-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;=
+mso-table-rspace: 0pt !important;"><img src=3D"https://info.daneurope.org/a=
+lertdiver/july2020/GIF.gif" img=3D"" alt=3D"" style=3D"width: 100%;max-widt=
+h: 720px;height: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;line-height: 100%;-ms-interpolation-mode: bicubic;" border=3D"0" align=
+=3D"middle" /></td>               </tr>                                    =
+                                         </tbody></table>           <table =
+class=3D"email-container" style=3D"-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-ta=
+ble-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: co=
+llapse !important;table-layout: fixed !important;margin: 0 auto !important;=
+" width=3D"720" height=3D"30" align=3D"center">             <tbody><tr styl=
+e=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height:=
+ 100%;">                 <td style=3D"padding: 20px 0;text-align: center;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;m=
+so-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">&nbsp;</=
+td>               </tr>           </tbody></table>             <!-- Email B=
+ody : END -->                           <!-- Email Footer : BEGIN -->      =
+                    <!-- Email Footer : END -->                        </ce=
+nter></td>       </tr>     </tbody></table>     <table style=3D"border-coll=
+apse: collapse;margin-top: 10px;margin-bottom: 10px;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt =
+!important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;ta=
+ble-layout: fixed !important;margin: 0 auto !important;" width=3D"100%" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#D10E12">       <t=
+body><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;line-height: 100%;">         <td style=3D"-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !importan=
+t;mso-table-rspace: 0pt !important;"><center style=3D"width: 100%;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">      =
+                    <!-- Visually Hidden Preheader Text : BEGIN -->        =
+   <div style=3D"display: none;font-size: 1px;line-height: 1px;max-height: =
+0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: s=
+ans-serif;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Nuevo=
+s art=C3=ADculos, test y entradas en el blog para ayudarte a convertirte en=
+ un buceador m=C3=A1s preparado...</div>             <!-- Visually Hidden P=
+reheader Text : END -->                                      <table class=
+=3D"email-container" style=3D"margin-top: 5px;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !impor=
+tant;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-c=
+ollapse: collapse !important;table-layout: fixed !important;margin: 0 auto =
+!important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=
+ bgcolor=3D"#D10E12" align=3D"center">                                     =
+               <!-- 1 Column Text : BEGIN -->             <tbody><tr style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;">                 <td style=3D"padding: 40px;text-align: center;font-=
+family: 'Roboto', sans-serif;font-size: 20px;font-weight: 300;mso-line-heig=
+ht-rule: exactly;line-height: 25px;color: #FFFFFF;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table=
+-rspace: 0pt !important;"><h6 class=3D"margin-vertical-30" style=3D"color: =
+white;font-family: 'Roboto', sans-serif;font-size: 20px;font-weight: 380;ma=
+rgin-bottom: 5px;margin-top: 20px;text-align: center;-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;line-height: 100%;">Hola Jorge:<br styl=
+e=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height:=
+ 100%;" /><br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;line-height: 100%;" /> =09Despu=C3=A9s de un largo invierno&mdash; y =
+un bloqueo a=C3=BAn m=C3=A1s largo por culpa del coronavirus, la abstinenci=
+a de nitr=C3=B3geno alcanz=C3=B3 su pico. <b style=3D"-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">&iquest;Te sientes=
+ oxidado?</b> Esto es lo que necesitas saber antes de absorber nitr=C3=B3ge=
+no de nuevo para evitar una sobredosis y otros contratiempos.     <br style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;" /><br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;line-height: 100%;" /> Sin embargo - y por desgracia &ndash; las cosas=
+ malas pueden sucederle a cualquier persona, y es por eso que uno desea obt=
+ener la asistencia y la cobertura adecuadas en caso de sucesos imprevistos.=
+ Aqu=C3=AD encontrar=C3=A1s todo lo que quer=C3=ADas saber sobre <b style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;">el seguro de buceo</b>, &iexcl;pero estabas demasiado ocupado bucean=
+do para preguntar! <br style=3D"-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;line-height: 100%;" /><br style=3D"-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;line-height: 100%;" />     &iquest;Buscas =
+algunas sugerencias para tus pr=C3=B3ximas aventuras de buceo? <b style=3D"=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%=
+;">Xulo</b> es uno de los Cenotes m=C3=A1s espectaculares del Sistema Cater=
+pillar, en la famosa Pen=C3=ADnsula de Yucat=C3=A1n, M=C3=A9xico. Te contam=
+os c=C3=B3mo explorar esta joya submarina de forma segura y c=C3=B3mo ayuda=
+r a proteger su entorno =C3=BAnico.     <br style=3D"-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;line-height: 100%;" /><br style=3D"-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" /=
+>  Los art=C3=ADculos de Alert Diver, las preguntas y las entradas de blog =
+est=C3=A1n ah=C3=AD, como siempre, para ayudarte en el camino, a ser un buc=
+eador m=C3=A1s preparado y m=C3=A1s consciente. <br style=3D"-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" />Por favor=
+, env=C3=ADa cualquier comentario a <a style=3D"color: #FFFFFF;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" href=3D"m=
+ailto:editor@alertdiver.eu">editor@alertdiver.eu</a>. Puedes seguirnos en <=
+a style=3D"color: #FFFFFF;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;line-height: 100%;" href=3D"https://www.facebook.com/daneurope.spa=
+in/" target=3D"_blank">Facebook</a> y <a style=3D"color: #FFFFFF;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" href=3D=
+"https://twitter.com/DAN_Europe" target=3D"_blank">Twitter</a> para estar s=
+iempre actualizado. <br style=3D"-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;" />&nbsp;</h6></td>               </tr> =
+                                     </tbody></table>             <!-- Emai=
+l Body : END -->                           <!-- Email Footer : BEGIN -->   =
+                       <!-- Email Footer : END -->                        <=
+/center></td>       </tr>     </tbody></table>     <table style=3D"border-c=
+ollapse: collapse;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !=
+important;border-spacing: 0 !important;table-layout: fixed !important;margi=
+n: 0 auto !important;" width=3D"100%" height=3D"100%" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" bgcolor=3D"FFFFFF">       <tbody><tr style=3D"-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+">         <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace:=
+ 0pt !important;"><center style=3D"width: 100%;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;line-height: 100%;">         <table class=3D"=
+email-container" style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspac=
+e: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !i=
+mportant;table-layout: fixed !important;margin: 0 auto !important;" width=
+=3D"720" align=3D"center">             <tbody><tr style=3D"-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">             =
+    <td style=3D"padding: 0px 0;text-align: center;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !=
+important;mso-table-rspace: 0pt !important;"><h1 style=3D"color: #d10a11;fo=
+nt-family: 'Roboto', sans-serif;font-size: 45px;font-weight: 300;margin-bot=
+tom: 0;margin-top: 50px;text-align: center;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;line-height: 100%;">=C3=9Altimos art=C3=ADculos</=
+h1></td>               </tr>           </tbody></table>                    =
+                                                        <!-- Email Body : B=
+EGIN -->             <table class=3D"email-container" style=3D"-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-l=
+space: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !i=
+mportant;border-collapse: collapse !important;table-layout: fixed !importan=
+t;margin: 0 auto !important;" width=3D"720" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center">                  =
+                                             <!-- Three Even Columns : BEGI=
+N -->             <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;line-height: 100%;">                 <td style=3D"padd=
+ing: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-he=
+ight: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !importan=
+t;" valign=3D"top" align=3D"center"><table style=3D"-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;line-height: 100%;table-layout: fixed !i=
+mportant;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;=
+border-spacing: 0 !important;border-collapse: collapse !important;margin: 0=
+ auto !important;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0">                     <tbody><tr style=3D"-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;line-height: 100%;">                     <t=
+d class=3D"stack-column-center" style=3D"padding-right: 10px;padding-left: =
+10px;padding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspac=
+e: 0pt !important;" width=3D"30%"><table class=3D"articolo" style=3D"-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;table=
+-layout: fixed !important;width: 220px;mso-table-lspace: 0pt !important;mso=
+-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse:=
+ collapse !important;margin: 0 auto !important;" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0">                         <tbody><tr style=3D"-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">    =
+                     <td style=3D"padding: 0;cellspacing: 0;text-align: cen=
+ter;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><i=
+mg src=3D"https://www.daneurope.org/image/image_gallery?uuid=3Dafe612a0-945=
+e-4b34-85e9-e2484e8e18fb&amp;groupId=3D10103&amp;t=3D1595425074040" style=
+=3D"width: 100%;margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;"=
+ alt=3D"alt_text" class=3D"fluid" border=3D"0" /></td>                     =
+  </tr>                         <tr style=3D"-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;line-height: 100%;">                         <t=
+d style=3D"font-family: 'Roboto', sans-serif;background-color: #eeeeee;font=
+-size: 19px;mso-line-height-rule: exactly;color: #4a4a4a;line-height: 20px;=
+padding: 15px;height: 160px;text-align: center;vertical-align: top;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !im=
+portant;mso-table-rspace: 0pt !important;" class=3D"center-on-narrow">Un re=
+inicio seguro: dec=C3=A1logo para buceadores oxidados</td>                 =
+      </tr>                       <tr style=3D"-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;line-height: 100%;"><td style=3D"-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-l=
+space: 0pt !important;mso-table-rspace: 0pt !important;"><div style=3D"vert=
+ical-align: bottom;font-family: 'Roboto', sans-serif;background-color: #eee=
+eee;margin-top: 0px;padding-bottom: 15px;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;line-height: 100%;"><!--[if gte mso 9]>&nbsp;&nbsp;=
+&nbsp;&nbsp;<![endif]-->                                         <a href=3D=
+"https://alertdiver.eu/es_ES/articulos/un-reinicio-seguro-decalogo-para-buc=
+eadores-oxidados" style=3D"color: #d10a11;display: block;font-size: 15px;fo=
+nt-weight: 300;margin-left: 20px;margin-right: 20px;text-decoration: none;t=
+ext-transform: uppercase;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;line-height: 100%;" target=3D"_blank">                             =
+            <span style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;line-height: 100%;">LEE EL ART=C3=8DCULO</span> <img alt=3D"" src=
+=3D"https://daneurope.org/image/image_gallery?uuid=3Df3808322-d367-4cb8-a34=
+b-7613463a5bc9&amp;groupId=3D10103&amp;t=3D1472568818192" style=3D"padding-=
+left: 5px;vertical-align: middle;border: 0px;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicub=
+ic;" /></a>                                         <!--[if gte mso 9]><br/=
+>&nbsp;<![endif]--></div></td>                                    </tr>    =
+                                                                           =
+         </tbody></table></td>                                            <=
+td class=3D"stack-column-center" style=3D"padding-right: 10px;padding-left:=
+ 10px;padding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspa=
+ce: 0pt !important;" width=3D"30%"><table class=3D"articolo" style=3D"-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;tabl=
+e-layout: fixed !important;width: 220px;mso-table-lspace: 0pt !important;ms=
+o-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse=
+: collapse !important;margin: 0 auto !important;" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">                         <tbody><tr style=3D"-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">   =
+                      <td style=3D"padding: 0;cellspacing: 10;text-align: c=
+enter;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height=
+: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">=
+<img src=3D"https://www.daneurope.org/image/image_gallery?uuid=3D1058217d-8=
+82c-4ace-b9be-add8de91fb0d&amp;groupId=3D10103&amp;t=3D1595425074031" style=
+=3D"width: 100%;margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;"=
+ alt=3D"alt_text" class=3D"fluid" border=3D"0" /></td>                     =
+  </tr>                         <tr style=3D"-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;line-height: 100%;">                         <t=
+d style=3D"font-family: 'Roboto', sans-serif;background-color: #eeeeee;font=
+-size: 19px;mso-line-height-rule: exactly;color: #4a4a4a;line-height: 20px;=
+padding: 15px;height: 160px;text-align: center;vertical-align: top;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !im=
+portant;mso-table-rspace: 0pt !important;" class=3D"center-on-narrow">&ique=
+st;Est=C3=A1s cubierto? Consideraciones sobre el seguro de buceo</td>      =
+                 </tr>                       <tr style=3D"-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><td style=3D"-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><div st=
+yle=3D"vertical-align: bottom;font-family: 'Roboto', sans-serif;background-=
+color: #eeeeee;margin-top: 0px;padding-bottom: 15px;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;line-height: 100%;"><!--[if gte mso 9]>&=
+nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->                                        =
+ <a href=3D"https://alertdiver.eu/es_ES/articulos/estas-cubierto-considerac=
+iones-sobre-el-seguro-de-buceo" style=3D"color: #d10a11;display: block;font=
+-size: 15px;font-weight: 300;margin-left: 20px;margin-right: 20px;text-deco=
+ration: none;text-transform: uppercase;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;line-height: 100%;" target=3D"_blank">               =
+                          <span style=3D"-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;line-height: 100%;">LEE EL ART=C3=8DCULO</span> <im=
+g alt=3D"" src=3D"https://daneurope.org/image/image_gallery?uuid=3Df3808322=
+-d367-4cb8-a34b-7613463a5bc9&amp;groupId=3D10103&amp;t=3D1472568818192" sty=
+le=3D"padding-left: 5px;vertical-align: middle;border: 0px;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms-interpolati=
+on-mode: bicubic;" /></a>                                         <!--[if g=
+te mso 9]><br/>&nbsp;<![endif]--></div></td>                               =
+     </tr>                                                                 =
+                       </tbody></table></td>                     <td class=
+=3D"stack-column-center" style=3D"padding-right: 10px;padding-left: 10px;pa=
+dding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt =
+!important;" width=3D"30%"><table class=3D"articolo" style=3D"-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;table-layout=
+: fixed !important;width: 220px;mso-table-lspace: 0pt !important;mso-table-=
+rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collap=
+se !important;margin: 0 auto !important;" cellspacing=3D"0" cellpadding=3D"=
+0" border=3D"0">                         <tbody><tr style=3D"-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">           =
+              <td style=3D"padding: 0;cellspacing: 10;text-align: center;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;m=
+so-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><img src=
+=3D"https://www.daneurope.org/image/image_gallery?uuid=3D8a3b0830-5a0e-4a6e=
+-9b22-70236089f82c&amp;groupId=3D10103&amp;t=3D1595425074057" style=3D"widt=
+h: 100%;margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"=
+alt_text" class=3D"fluid" border=3D"0" /></td>                       </tr> =
+                        <tr style=3D"-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;line-height: 100%;">                         <td style=
+=3D"font-family: 'Roboto', sans-serif;background-color: #eeeeee;font-size: =
+19px;mso-line-height-rule: exactly;color: #4a4a4a;line-height: 20px;padding=
+: 15px;height: 160px;text-align: center;vertical-align: top;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important=
+;mso-table-rspace: 0pt !important;" class=3D"center-on-narrow">Xulo, la cue=
+va de las golondrinas</td>                       </tr>                     =
+                         <tr style=3D"-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;line-height: 100%;"><td style=3D"-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0p=
+t !important;mso-table-rspace: 0pt !important;"><div style=3D"vertical-alig=
+n: bottom;font-family: 'Roboto', sans-serif;background-color: #eeeeee;margi=
+n-top: 0px;padding-bottom: 15px;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;line-height: 100%;"><!--[if gte mso 9]>&nbsp;&nbsp;&nbsp;&nb=
+sp;<![endif]-->                                         <a href=3D"https://=
+alertdiver.eu/es_ES/articulos/xulo-la-cueva-de-las-golondrinas" class=3D"bt=
+n text-primary text-uppercase font-size-12 margin-horizontal-20" style=3D"c=
+olor: #d10a11;display: block;font-size: 15px;font-weight: 300;margin-left: =
+20px;margin-right: 20px;text-decoration: none;text-transform: uppercase;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" =
+target=3D"_blank">                                         <span style=3D"-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+">LEE EL ART=C3=8DCULO</span> <img alt=3D"" src=3D"https://daneurope.org/im=
+age/image_gallery?uuid=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;groupId=
+=3D10103&amp;t=3D1472568818192" style=3D"padding-left: 5px;vertical-align: =
+middle;border: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;line-height: 100%;-ms-interpolation-mode: bicubic;" /></a>               =
+                          <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div><=
+/td>                                    </tr>                              =
+                                                          </tbody></table><=
+/td>                   </tr>                   </tbody></table></td>       =
+        </tr>                            <!-- Three Even Columns : END --> =
+            <!-- Three Even Columns : BEGIN -->                            =
+             <!-- Three Even Columns : END -->                             =
+                     </tbody></table>                        <!-- Email Bod=
+y : END -->               <table class=3D"email-container" style=3D"-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-ta=
+ble-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing:=
+ 0 !important;border-collapse: collapse !important;table-layout: fixed !imp=
+ortant;margin: 0 auto !important;" width=3D"720" align=3D"center">         =
+    <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;line-height: 100%;">                 <td style=3D"padding: 0px 0;tex=
+t-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;l=
+ine-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !im=
+portant;"><h1 style=3D"color: #d10a11;font-family: 'Roboto', sans-serif;fon=
+t-size: 45px;font-weight: 300;margin-bottom: 0;margin-top: 50px;text-align:=
+ center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-heig=
+ht: 100%;">=C3=9Altimas entradas en el blog</h1><h4 style=3D"color: #d10a11=
+;font-family: 'Roboto', sans-serif;font-size: 30px;font-weight: 300;margin-=
+bottom: 0;margin-top: 20px;text-align: center;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;">(en ingl=C3=A9s)</h4></td>=
+               </tr>           </tbody></table>                            =
+                                                <!-- Email Body : BEGIN -->=
+             <table class=3D"email-container" style=3D"-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0=
+pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important=
+;border-collapse: collapse !important;table-layout: fixed !important;margin=
+: 0 auto !important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0" bgcolor=3D"#ffffff" align=3D"center">                            =
+                                   <!-- Three Even Columns : BEGIN -->     =
+        <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;">                 <td style=3D"padding: 10px;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%=
+;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;" valign=
+=3D"top" align=3D"center"><table style=3D"-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;line-height: 100%;table-layout: fixed !important;m=
+so-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spa=
+cing: 0 !important;border-collapse: collapse !important;margin: 0 auto !imp=
+ortant;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">  =
+                   <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;line-height: 100%;">                     <td class=3D=
+"stack-column-center" style=3D"padding-right: 5px;padding-left: 5px;padding=
+-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !impo=
+rtant;" width=3D"30%"><table class=3D"articolo" style=3D"-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;table-layout: fix=
+ed !important;width: 220px;mso-table-lspace: 0pt !important;mso-table-rspac=
+e: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !i=
+mportant;margin: 0 auto !important;" cellspacing=3D"0" cellpadding=3D"0" bo=
+rder=3D"0">                         <tbody><tr style=3D"-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">                =
+         <td style=3D"padding: 0;cellspacing: 0;text-align: center;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-tab=
+le-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><img src=3D"ht=
+tps://www.daneurope.org/image/image_gallery?uuid=3Dc1b0ddfd-9c74-4fd2-89f6-=
+41810b32410a&amp;groupId=3D10103&amp;t=3D1595425074066" style=3D"width: 100=
+%;margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_te=
+xt" class=3D"fluid" border=3D"0" /></td>                       </tr>       =
+                  <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;line-height: 100%;">                         <td style=3D"fon=
+t-family: 'Roboto', sans-serif;background-color: #eeeeee;font-size: 19px;ms=
+o-line-height-rule: exactly;color: #4a4a4a;line-height: 20px;padding: 15px;=
+height: 130px;text-align: center;vertical-align: top;-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-ta=
+ble-rspace: 0pt !important;" class=3D"center-on-narrow">Divers, Stay Positi=
+ve Through the Pandemic</td>                       </tr>                   =
+    <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+line-height: 100%;"><td style=3D"-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-tabl=
+e-rspace: 0pt !important;"><div style=3D"vertical-align: bottom;font-family=
+: 'Roboto', sans-serif;background-color: #eeeeee;margin-top: 0px;padding-bo=
+ttom: 15px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;"><!--[if gte mso 9]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->      =
+                                   <a href=3D"https://blog.daneurope.org/en=
+_US/blog/divers-stay-positive-through-the-pandemic" class=3D"btn text-prima=
+ry text-uppercase font-size-12 margin-horizontal-20" style=3D"color: #d10a1=
+1;display: block;font-size: 15px;font-weight: 300;margin-left: 20px;margin-=
+right: 20px;text-decoration: none;text-transform: uppercase;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" target=3D"_b=
+lank">                                         <span style=3D"-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">LEE M=C3=
+=81S</span> <img alt=3D"" src=3D"https://daneurope.org/image/image_gallery?=
+uuid=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;groupId=3D10103&amp;t=3D147=
+2568818192" style=3D"padding-left: 5px;vertical-align: middle;border: 0px;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+-ms-interpolation-mode: bicubic;" /></a>                                   =
+      <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div></td>                =
+                    </tr>                                                  =
+                                      </tbody></table></td>                =
+                            <td class=3D"stack-column-center" style=3D"padd=
+ing-right: 5px;padding-left: 5px;padding-bottom: 10px;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0p=
+t !important;mso-table-rspace: 0pt !important;" width=3D"30%"><table class=
+=3D"articolo" style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;line-height: 100%;table-layout: fixed !important;width: 220px;mso-tab=
+le-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: =
+0 !important;border-collapse: collapse !important;margin: 0 auto !important=
+;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">                       =
+  <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;line-height: 100%;">                         <td style=3D"padding: 0;c=
+ellspacing: 10;text-align: center;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-tab=
+le-rspace: 0pt !important;"><img src=3D"https://www.daneurope.org/image/ima=
+ge_gallery?uuid=3D36ecbbfa-a749-4fe3-9b26-d331e3e17011&amp;groupId=3D10103&=
+amp;t=3D1595425074023" style=3D"width: 100%;margin: 0px;padding: 0px;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms-i=
+nterpolation-mode: bicubic;" alt=3D"alt_text" class=3D"fluid" border=3D"0" =
+/></td>                       </tr>                         <tr style=3D"-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"=
+>                         <td style=3D"font-family: 'Roboto', sans-serif;ba=
+ckground-color: #eeeeee;font-size: 19px;mso-line-height-rule: exactly;color=
+: #4a4a4a;line-height: 20px;padding: 15px;height: 130px;text-align: center;=
+vertical-align: top;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;" clas=
+s=3D"center-on-narrow">Our Special Summer As Divers And Resident Bloggers</=
+td>                       </tr>                       <tr style=3D"-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><td s=
+tyle=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-heig=
+ht: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;=
+"><div style=3D"vertical-align: bottom;font-family: 'Roboto', sans-serif;ba=
+ckground-color: #eeeeee;margin-top: 0px;padding-bottom: 15px;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><!--[if gte=
+ mso 9]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->                               =
+          <a href=3D"https://blog.daneurope.org/en_US/blog/our-special-summ=
+er-as-divers-and-resident-bloggers" class=3D"btn text-primary text-uppercas=
+e font-size-12 margin-horizontal-20" style=3D"color: #d10a11;display: block=
+;font-size: 15px;font-weight: 300;margin-left: 20px;margin-right: 20px;text=
+-decoration: none;text-transform: uppercase;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;line-height: 100%;" target=3D"_blank">          =
+                               <span style=3D"-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;">LEE M=C3=81S</span> <img a=
+lt=3D"" src=3D"https://daneurope.org/image/image_gallery?uuid=3Df3808322-d3=
+67-4cb8-a34b-7613463a5bc9&amp;groupId=3D10103&amp;t=3D1472568818192" style=
+=3D"padding-left: 5px;vertical-align: middle;border: 0px;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms-interpolation=
+-mode: bicubic;" /></a>                                         <!--[if gte=
+ mso 9]><br/>&nbsp;<![endif]--></div></td>                                 =
+   </tr>                                                                   =
+                     </tbody></table></td>                     <td class=3D=
+"stack-column-center" style=3D"padding-right: 5px;padding-left: 5px;padding=
+-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !impo=
+rtant;" width=3D"30%"><table class=3D"articolo" style=3D"-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;table-layout: fix=
+ed !important;width: 220px;mso-table-lspace: 0pt !important;mso-table-rspac=
+e: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !i=
+mportant;margin: 0 auto !important;" cellspacing=3D"0" cellpadding=3D"0" bo=
+rder=3D"0">                         <tbody><tr style=3D"-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">                =
+         <td style=3D"padding: 0;cellspacing: 10;text-align: center;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-ta=
+ble-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><img src=3D"h=
+ttps://www.daneurope.org/image/image_gallery?uuid=3Dec2e7684-3aa4-4660-ab2f=
+-aa40af88cc3b&amp;groupId=3D10103&amp;t=3D1595425074049" style=3D"width: 10=
+0%;margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_t=
+ext" class=3D"fluid" border=3D"0" /></td>                       </tr>      =
+                   <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;line-height: 100%;">                         <td style=3D"fo=
+nt-family: 'Roboto', sans-serif;background-color: #eeeeee;font-size: 19px;m=
+so-line-height-rule: exactly;color: #4a4a4a;line-height: 20px;padding: 15px=
+;height: 130px;text-align: center;vertical-align: top;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-t=
+able-rspace: 0pt !important;" class=3D"center-on-narrow">Are Full Face Snor=
+keling Masks dangerous?</td>                       </tr>                   =
+    <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+line-height: 100%;"><td style=3D"-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-tabl=
+e-rspace: 0pt !important;"><div style=3D"vertical-align: bottom;font-family=
+: 'Roboto', sans-serif;background-color: #eeeeee;margin-top: 0px;padding-bo=
+ttom: 15px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;"><!--[if gte mso 9]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->      =
+                                   <a href=3D"https://blog.daneurope.org/en=
+_US/blog/are-full-face-snorkeling-masks-dangerous" class=3D"btn text-primar=
+y text-uppercase font-size-12 margin-horizontal-20" style=3D"color: #d10a11=
+;display: block;font-size: 15px;font-weight: 300;margin-left: 20px;margin-r=
+ight: 20px;text-decoration: none;text-transform: uppercase;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" target=3D"_bl=
+ank">                                         <span style=3D"-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">LEE M=C3=81=
+S</span> <img alt=3D"" src=3D"https://daneurope.org/image/image_gallery?uui=
+d=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;groupId=3D10103&amp;t=3D147256=
+8818192" style=3D"padding-left: 5px;vertical-align: middle;border: 0px;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms=
+-interpolation-mode: bicubic;" /></a>                                      =
+   <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div></td>                   =
+                 </tr>                                                     =
+                                   </tbody></table></td>                   =
+</tr>                   </tbody></table></td>               </tr>          =
+                                                 <tr style=3D"-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">          =
+       <td style=3D"padding: 0px 0;text-align: center;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0p=
+t !important;mso-table-rspace: 0pt !important;"><h1 style=3D"color: #d10a11=
+;font-family: 'Roboto', sans-serif;font-size: 45px;font-weight: 300;margin-=
+bottom: 0;margin-top: 50px;text-align: center;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;">Test</h1></td>            =
+                  </tr>                       </tbody></table><br style=3D"=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%=
+;" />                            <div style=3D"margin: 0px 0px 0px 0px;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><=
+table class=3D"email-container" style=3D"margin-bottom: 10px;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lsp=
+ace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !imp=
+ortant;border-collapse: collapse !important;table-layout: fixed !important;=
+margin: 0 auto !important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"=
+0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center">                      =
+    <!-- Hero Image, Flush : BEGIN -->             <tbody><tr style=3D"-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"> =
+                <td class=3D"full-width-image" style=3D"-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: =
+0pt !important;mso-table-rspace: 0pt !important;"><a href=3D"https://alertd=
+iver.eu/es_ES/quizzes/mas-agua-menos-burbujas" target=3D"_blank" style=3D"-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+"><img src=3D"https://www.daneurope.org/image/image_gallery?uuid=3D20104768=
+-1b62-4ab0-a9d1-0c1a24d5f93d&amp;groupId=3D10103&amp;t=3D1592294750524" alt=
+=3D"alt_text" style=3D"width: 100%;max-width: 720px;height: auto;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms-inter=
+polation-mode: bicubic;" border=3D"0" align=3D"middle" /></a></td>         =
+      </tr>                                                                =
+                       </tbody></table></div><br style=3D"-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" />            =
+                               <table class=3D"email-container" style=3D"-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;m=
+so-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spa=
+cing: 0 !important;border-collapse: collapse !important;table-layout: fixed=
+ !important;margin: 0 auto !important;" width=3D"720" height=3D"30" align=
+=3D"center">             <tbody><tr style=3D"-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;line-height: 100%;">                 <td style=
+=3D"padding: 20px 0;text-align: center;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;ms=
+o-table-rspace: 0pt !important;">&nbsp;</td>               </tr>           =
+</tbody></table>           <table class=3D"email-container" style=3D"margin=
+-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !impo=
+rtant;border-spacing: 0 !important;border-collapse: collapse !important;tab=
+le-layout: fixed !important;margin: 0 auto !important;" width=3D"720" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"ce=
+nter">                          <!-- Hero Image, Flush : BEGIN -->         =
+    <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;line-height: 100%;">                 <td class=3D"full-width-image" =
+style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-hei=
+ght: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important=
+;"><a href=3D"http://www.daneurope.org/web/guest/registration" target=3D"_b=
+lank" style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;li=
+ne-height: 100%;"><img src=3D"https://www.daneurope.org/image/image_gallery=
+?uuid=3Dc0243bac-5900-4640-9c83-b921b2c36b47&amp;groupId=3D10103&amp;t=3D14=
+92504499961" alt=3D"alt_text" style=3D"width: 100%;max-width: 720px;height:=
+ auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height=
+: 100%;-ms-interpolation-mode: bicubic;" border=3D"0" align=3D"middle" /></=
+a></td>               </tr>                                                =
+                             </tbody></table>                              =
+     <!-- Email Footer : BEGIN -->            <br style=3D"-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" /><br style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;" />                        <table class=3D"email-container" style=3D"=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%=
+;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-s=
+pacing: 0 !important;border-collapse: collapse !important;table-layout: fix=
+ed !important;margin: 0 auto !important;" width=3D"720" align=3D"center">  =
+           <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;line-height: 100%;">                         <td class=3D"tex=
+t-gray-light" colspan=3D"5" style=3D"color: #A0A0A0;font-family: 'Roboto', =
+sans-serif;font-weight: 300;table-layout: fixed;font-size: 14px;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-=
+lspace: 0pt !important;mso-table-rspace: 0pt !important;" align=3D"center">=
+<br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line=
+-height: 100%;" />                                                         =
+ <br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;" />                                                        =
+  <div style=3D"padding-right: 13px;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;line-height: 100%;">Est=C3=A1s recibiendo este correo el=
+ectr=C3=B3nico porque est=C3=A1s afiliado a DAN o lo has sido anteriormente=
+ (E-mail: jorgepiedrafita@gmail.com). Para asegurarte de recibir nuestros m=
+ensajes de correo electr=C3=B3nico, por favor adjunta a tu libreta de direc=
+ciones                                  <a href=3D"mailto:newsletter@alertd=
+iver.eu" style=3D"text-decoration: none;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;line-height: 100%;"><span style=3D"color: #d10a11;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"=
+>newsletter@alertdiver.eu</span></a>. Para saber c=C3=B3mo manejamos tu inf=
+ormaci=C3=B3n personal, consulte nuestra <a href=3D"https://www.daneurope.o=
+rg/web/guest/privacy" style=3D"text-decoration: none;-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><span style=3D"colo=
+r: #d10a11;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;">Pol=C3=ADtica de privacidad</span></a>. Si prefieres no recib=
+ir m=C3=A1s correos de DAN Europe,                                  <a href=
+=3D"mailto:mail@daneurope.org?subject=3DUnsubscribe_ES_4265" style=3D"-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">  =
+                               <span style=3D"color: #d10a11;text-decoratio=
+n: underline;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line=
+-height: 100%;">cancela</span></a> la suscripci=C3=B3n a este servicio.</di=
+v>                                                 <br style=3D"-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" />      =
+           DAN Europe Foundation <a href=3D"mailto:communications@daneurope=
+.org" style=3D"text-decoration: none;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;line-height: 100%;"><span style=3D"color: #d10a11;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">co=
+mmunications@daneurope.org</span></a>  | <a href=3D"http://daneurope.org/" =
+style=3D"text-decoration: none;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;line-height: 100%;"><span style=3D"color: #d10a11;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" target=
+=3D"_blank">www.daneurope.org</span></a> <br style=3D"-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" />Tel=C3=A9fono +3=
+9 085 893 0333 | Fax +39 085 893 0050 <br style=3D"-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;line-height: 100%;" /><br style=3D"-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" /> =
+               </td></tr>           </tbody></table>                       =
+ <!-- Email Footer : END -->                        </center></td>       </=
+tr>     </tbody></table>
+------=_Part_6721_2106299513.1596194616086--
+
+From - Sat Apr  2 18:32:47 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: jorgepiedrafita@gmail.com
+Received: by 2002:a5e:8d0f:0:0:0:0:0 with SMTP id m15csp221951ioj;
+        Mon, 6 Apr 2020 03:32:12 -0700 (PDT)
+X-Google-Smtp-Source: APiQypKBccpCar4S7gLKCeDttXU4/N2nah1qoaQsOoIVryIQHbqLvrUl/tE0KwKvZ2arbNVjvPgu
+X-Received: by 2002:adf:fe89:: with SMTP id l9mr6697877wrr.263.1586169132525;
+        Mon, 06 Apr 2020 03:32:12 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1586169132; cv=none;
+        d=google.com; s=arc-20160816;
+        b=XTKsi83ANkmKgkVR/Uosf132V81429owDyuW75ba8dMBzb8bZ6IExJfrFlI1KIT/ol
+         uRdHbA/h3rpfAQd1Ow+2iZd7E99zr3GLlbLdHvwpq/mgt3HmvAU8GgG+BS+z/15oKoP6
+         mS9GvwLbXgBR4I/wIXeWWESkM0GLGF0oBIYy5sdMirDbsg9rc1aOAO7RltDKmkoogqiV
+         ZhJD5jQk+gEQOB0csTNGDmGGLt29mj8tkFCjmbNYBxU2ViHWENFrIj1Vq7r13Y7/78IX
+         PsWr+qSoUdnRQXEgj+bE739d59VTPNvNM2PbYN+CSjyqR9EkooiibsU67w81k+OgtA2z
+         xOoQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date;
+        bh=asBMtUheaAXQ6MQON0RJAxMPKdtlVfVu+oG2lf1S9UQ=;
+        b=Zg1zatgYVeUWGk8Xz/7ipWcHZ8BEVaSbNqJRJ9WcSYi05bsezgGtcf8bEc0hTZNS7Z
+         KT1+jsPRmpTCnbNV49OZJyTKEejJqWYB3ccYBLNFo2UmFSE91Ccf4E6T03OHAXLBwr3Z
+         PFeRWzbLb/EVFqN3/YYDHuKu7u3CcCRwsuwSfrDFgqVwChujsjSx2MZC4vk2AZU+hRS5
+         PcwWa6Wcrl4i69I+zRpUum65U+NkNPdlj1iVG55AJuMc4M+1On/ATz4LwYT6fHCM0niW
+         Y2nfxSscW53YDlXODx4yz4r7nyFcwMNO6IZrDOSjQL/ZK7tXoMp4wT+n4mlSOeOVdP9t
+         eyQQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of newsletter@alertdiver.eu designates 136.243.163.47 as permitted sender) smtp.mailfrom=newsletter@alertdiver.eu
+Return-Path: <newsletter@alertdiver.eu>
+Received: from dan1.a6it.com (dan1.a6it.com. [136.243.163.47])
+        by mx.google.com with ESMTPS id t5si9049537wro.450.2020.04.06.03.32.12
+        for <jorgepiedrafita@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 06 Apr 2020 03:32:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of newsletter@alertdiver.eu designates 136.243.163.47 as permitted sender) client-ip=136.243.163.47;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of newsletter@alertdiver.eu designates 136.243.163.47 as permitted sender) smtp.mailfrom=newsletter@alertdiver.eu
+Received: from wais5-ktis.localdomain (71.205.forpsi.net [81.2.205.71])
+	by dan1.a6it.com (8.14.7/8.14.7) with ESMTP id 036AVBcJ027400
+	for <jorgepiedrafita@gmail.com>; Mon, 6 Apr 2020 12:31:11 +0200
+Received: from wais5-ktis (localhost [127.0.0.1])
+	by wais5-ktis.localdomain (8.14.4/8.14.4) with ESMTP id 036AVBMY011109
+	for <jorgepiedrafita@gmail.com>; Mon, 6 Apr 2020 12:31:11 +0200
+Date: Mon, 6 Apr 2020 12:31:11 +0200
+From: Alert Diver <newsletter@alertdiver.eu>
+Reply-To: No-Reply <noreply@daneurope.org>
+To: jorgepiedrafita@gmail.com
+Message-ID: <669395608.792471586169071573.JavaMail.root@wais5-ktis>
+Subject: Un nuevo modelo para explicar la variabilidad 'burbujeante',  la
+ cueva de Billinghurst, Consideraciones sobre el seguro de buceo
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_39658_391505985.1586169071571"
+
+------=_Part_39658_391505985.1586169071571
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table style=3D"border-collapse: collapse;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important=
+;mso-table-rspace: 0pt !important;border-spacing: 0 !important;table-layout=
+: fixed !important;margin: 0 auto !important;" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">       <tbody><tr=
+ style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-he=
+ight: 100%;">         <td style=3D"-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-ta=
+ble-rspace: 0pt !important;"><center style=3D"width: 100%;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">              =
+            <!-- Visually Hidden Preheader Text : BEGIN -->             <di=
+v style=3D"display: none;font-size: 1px;line-height: 1px;max-height: 0px;ma=
+x-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-family: sans-se=
+rif;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Nuevos art=
+=C3=ADculos, test y entradas en el blog para ayudarte a convertirte en un b=
+uceador m=C3=A1s preparado... </div>             <!-- Visually Hidden Prehe=
+ader Text : END -->                           <!-- Email Header : BEGIN -->=
+             <table style=3D"margin-top: 15px;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !impor=
+tant;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-c=
+ollapse: collapse !important;table-layout: fixed !important;margin: 0 auto =
+!important;" class=3D"email-container" width=3D"720" align=3D"center">     =
+            <tbody style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;">                   <tr style=3D"-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">         =
+               <td style=3D"color: #989898;font-family: 'Roboto', sans-seri=
+f;font-size: 14px;font-weight: 300;-webkit-text-size-adjust: none;-ms-text-=
+size-adjust: none;line-height: 100%;mso-table-lspace: 0pt !important;mso-ta=
+ble-rspace: 0pt !important;" height=3D"30" align=3D"right">&iquest;No logra=
+s visualizar el mail correctamente? <a target=3D"_blank" style=3D"color: #9=
+89898;text-decoration: none;outline: none;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;line-height: 100%;" href=3D"http://info.daneurope.=
+org/alertdiver/april_2020/newsletterAD_ES.html"> <strong style=3D"-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">L=C3=
+=A9elo aqu=C3=AD</strong></a></td>                     </tr>               =
+                      </tbody>             </table>                        =
+  <table class=3D"email-container" style=3D"-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !importa=
+nt;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-col=
+lapse: collapse !important;table-layout: fixed !important;margin: 0 auto !i=
+mportant;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" b=
+gcolor=3D"#ffffff" align=3D"center">                                       =
+                        <!-- Three Even Columns : BEGIN -->             <tb=
+ody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+line-height: 100%;">                 <td style=3D"padding: 10px;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-=
+lspace: 0pt !important;mso-table-rspace: 0pt !important;" valign=3D"top" al=
+ign=3D"center"><table style=3D"-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;line-height: 100%;table-layout: fixed !important;mso-table-ls=
+pace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !im=
+portant;border-collapse: collapse !important;margin: 0 auto !important;" wi=
+dth=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">             =
+        <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;">                     <td class=3D"stack-colu=
+mn-center" style=3D"padding-right: 10px;padding-bottom: 10px;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lsp=
+ace: 0pt !important;mso-table-rspace: 0pt !important;" width=3D"50%" align=
+=3D"left"><table style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;line-height: 100%;table-layout: fixed !important;mso-table-lspace:=
+ 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !importa=
+nt;border-collapse: collapse !important;margin: 0 auto !important;" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0">                         <tbody><=
+tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-=
+height: 100%;">                         <td style=3D"padding: 0;cellspacing=
+: 0;text-align: left;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0p=
+t !important;"><img src=3D"http://www.daneurope.org/image/image_gallery?uui=
+d=3Dcdb4bbc1-7dfd-4ed3-b0f2-dd2de0762c7d&amp;groupId=3D10103&amp;t=3D147825=
+3022307" style=3D"margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic=
+;height: auto;max-width: 100% !important;" alt=3D"alt_text" class=3D"fluid-=
+logo" width=3D"364" border=3D"0" /></td>                       </tr>       =
+                                                                           =
+      </tbody></table></td>                                            <td =
+class=3D"stack-column-center" style=3D"padding-right: 10px;padding-left: 10=
+px;padding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace:=
+ 0pt !important;" width=3D"50%"><table style=3D"-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;line-height: 100%;table-layout: fixed !impor=
+tant;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;bord=
+er-spacing: 0 !important;border-collapse: collapse !important;margin: 0 aut=
+o !important;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">           =
+              <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;line-height: 100%;">                         <td style=3D"=
+padding: 0;cellspacing: 10;text-align: center;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !impor=
+tant;mso-table-rspace: 0pt !important;"><a href=3D"https://www.facebook.com=
+/daneurope.spain/?ref=3Dbookmarks" style=3D"color: #d10019;text-decoration:=
+ none;outline: none;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;line-height: 100%;" target=3D"_blank"><img src=3D"https://www.daneurope.=
+org/image/image_gallery?uuid=3D7347073b-7014-408c-be97-2e8b0f2f3311&amp;gro=
+upId=3D10103&amp;t=3D1545238107243" style=3D"margin: 0px;padding: 0px;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms-=
+interpolation-mode: bicubic;" alt=3D"alt_text" class=3D"fluid" width=3D"32"=
+ height=3D"32" border=3D"0" /></a>                         <a href=3D"http:=
+//twitter.com/#!/DAN_Europe" style=3D"color: #d10019;text-decoration: none;=
+outline: none;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;" target=3D"_blank">            <img src=3D"https://www.dane=
+urope.org/image/image_gallery?uuid=3Dc0e7d8aa-6901-459b-a6fa-e3f8de4635e3&a=
+mp;groupId=3D10103&amp;t=3D1545238107302" style=3D"margin: 0px;padding: 0px=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100=
+%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" class=3D"fluid " width=
+=3D"32" height=3D"32" border=3D"0" /></a>                         <a href=
+=3D"http://www.youtube.com/user/DiversAlertNetwork" style=3D"color: #d10019=
+;text-decoration: none;outline: none;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;line-height: 100%;" target=3D"_blank"> <img src=3D"http=
+s://www.daneurope.org/image/image_gallery?uuid=3Db7b8d824-ff27-4281-9d15-66=
+26a1e37cb1&amp;groupId=3D10103&amp;t=3D1545238107313" style=3D"margin: 0px;=
+padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line=
+-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" class=3D"f=
+luid" width=3D"32" height=3D"32" border=3D"0" /></a>                       =
+  <a href=3D"https://www.instagram.com/daneurope/" style=3D"color: #d10019;=
+text-decoration: none;outline: none;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;line-height: 100%;" target=3D"_blank">          <img src=
+=3D"https://www.daneurope.org/image/image_gallery?uuid=3D362f5703-ccae-4341=
+-9c30-2db38483f233&amp;groupId=3D10103&amp;t=3D1545238107289" style=3D"marg=
+in: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;line-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" cl=
+ass=3D"fluid" width=3D"32" height=3D"32" border=3D"0" /></a></td>          =
+             </tr>                                                         =
+                                                      </tbody></table></td>=
+                   </tr>                   </tbody></table></td>           =
+    </tr>                            <!-- Three Even Columns : END -->     =
+        <!-- Three Even Columns : BEGIN -->                                =
+         <!-- Three Even Columns : END -->                                 =
+                 </tbody></table>             <!-- Email Header : END -->  =
+                         <!-- Email Body : BEGIN -->             <table cla=
+ss=3D"email-container" style=3D"margin-bottom: 10px;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt =
+!important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;bo=
+rder-collapse: collapse !important;table-layout: fixed !important;margin: 0=
+ auto !important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" bgcolor=3D"#ffffff" align=3D"center">                          <!-- =
+Hero Image, Flush : BEGIN -->             <tbody><tr style=3D"-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">          =
+       <td class=3D"full-width-image" style=3D"-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !impo=
+rtant;mso-table-rspace: 0pt !important;"><img src=3D"https://www.daneurope.=
+org/image/image_gallery?uuid=3D79777030-fd85-418b-9e2a-05da4366dc83&amp;gro=
+upId=3D10103&amp;t=3D1585921055192" img=3D"" alt=3D"" style=3D"width: 100%;=
+max-width: 720px;height: auto;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" border=3D"=
+0" align=3D"middle" /></td>               </tr>                            =
+                                                 </tbody></table>          =
+ <table class=3D"email-container" style=3D"-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !importan=
+t;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-coll=
+apse: collapse !important;table-layout: fixed !important;margin: 0 auto !im=
+portant;" width=3D"720" height=3D"30" align=3D"center">             <tbody>=
+<tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line=
+-height: 100%;">                 <td style=3D"padding: 20px 0;text-align: c=
+enter;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height=
+: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">=
+&nbsp;</td>               </tr>           </tbody></table>             <!--=
+ Email Body : END -->                           <!-- Email Footer : BEGIN -=
+->                          <!-- Email Footer : END -->                    =
+    </center></td>       </tr>     </tbody></table>     <table style=3D"bor=
+der-collapse: collapse;margin-top: 10px;margin-bottom: 10px;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspa=
+ce: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !impo=
+rtant;table-layout: fixed !important;margin: 0 auto !important;" width=3D"1=
+00%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#D10E12"> =
+      <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;line-height: 100%;">         <td style=3D"-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !=
+important;mso-table-rspace: 0pt !important;"><center style=3D"width: 100%;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+">                          <!-- Visually Hidden Preheader Text : BEGIN -->=
+           <div style=3D"display: none;font-size: 1px;line-height: 1px;max-=
+height: 0px;max-width: 0px;opacity: 0;overflow: hidden;mso-hide: all;font-f=
+amily: sans-serif;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;">Nuevos art=C3=ADculos, test y entradas en el blog para ayudarte a conver=
+tirte en un buceador m=C3=A1s preparado...</div>             <!-- Visually =
+Hidden Preheader Text : END -->                                      <table=
+ class=3D"email-container" style=3D"margin-top: 5px;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt =
+!important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;bo=
+rder-collapse: collapse !important;table-layout: fixed !important;margin: 0=
+ auto !important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" bgcolor=3D"#D10E12" align=3D"center">                               =
+                     <!-- 1 Column Text : BEGIN -->             <tbody><tr =
+style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-hei=
+ght: 100%;">                 <td style=3D"padding: 40px;text-align: center;=
+font-family: 'Roboto', sans-serif;font-size: 20px;font-weight: 300;mso-line=
+-height-rule: exactly;line-height: 25px;color: #FFFFFF;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-=
+table-rspace: 0pt !important;"><h6 class=3D"margin-vertical-30" style=3D"co=
+lor: white;font-family: 'Roboto', sans-serif;font-size: 20px;font-weight: 3=
+80;margin-bottom: 5px;margin-top: 20px;text-align: center;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">Hola Jorge:<br=
+ style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-he=
+ight: 100%;" /><br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;" /> =09Los algoritmos de descompresi=C3=B3n s=
+iempre se han basado estrictamente en la profundidad, el tiempo y las mezcl=
+as de gases utilizadas. Ahora los investigadores de DAN Europe han propuest=
+o un nuevo modelo que tiene en cuenta el <b style=3D"-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;line-height: 100%;">metabolismo individ=
+ual</b> de un buceador. Aunque todav=C3=ADa est=C3=A1 en fases rudimentaria=
+s, se muestra muy prometedor para explicar una variedad de observaciones y =
+resultados de estudios anteriores. Sigue leyendo!     <br style=3D"-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" /><br=
+ style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-he=
+ight: 100%;" /> A todos los amantes del buceo en cuevas: pueden ser d=C3=AD=
+as de confinamiento, pero podemos dejar que la mente viaje al pr=C3=B3ximo =
+destino de buceo! Descubrimos la <b style=3D"-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;line-height: 100%;">Cueva de Billinghurst</b>, =
+en la hermosa Gozo (archipi=C3=A9lago malt=C3=A9s), bajo la experta gu=C3=
+=ADa de Audrey Cudel, instructora t=C3=A9cnica y nueva colaboradora de Aler=
+t Diver. <br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;line-height: 100%;" /><br style=3D"-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;line-height: 100%;" />     Hablando de <b style=3D"-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+">seguro de buceo</b>: &iquest;Est=C3=A1s cubierto econ=C3=B3micamente si t=
+e lesionas durante un viaje de buceo? La cuesti=C3=B3n es que hay muchas co=
+nsideraciones, y una serie de opciones con el seguro DAN, dependiendo del t=
+ipo de buceo que realices y d=C3=B3nde lo hagas. &iexcl;Una talla no sirve =
+para todos!     <br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-a=
+djust: 100%;line-height: 100%;" /><br style=3D"-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;line-height: 100%;" />  Los art=C3=ADculos de=
+ Alert Diver, las preguntas y las entradas de blog est=C3=A1n ah=C3=AD, com=
+o siempre, para ayudarte en el camino, a ser un buceador m=C3=A1s preparado=
+ y m=C3=A1s consciente. <br style=3D"-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;line-height: 100%;" />Por favor, env=C3=ADa cualquier c=
+omentario a <a style=3D"color: #FFFFFF;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;line-height: 100%;" href=3D"mailto:editor@alertdiver.=
+eu">editor@alertdiver.eu</a>. Puedes seguirnos en <a style=3D"color: #FFFFF=
+F;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 10=
+0%;" href=3D"https://www.facebook.com/daneurope.spain/" target=3D"_blank">F=
+acebook</a> y <a style=3D"color: #FFFFFF;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;line-height: 100%;" href=3D"https://twitter.com/DAN=
+_Europe" target=3D"_blank">Twitter</a> para estar siempre actualizado. <br =
+style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-hei=
+ght: 100%;" />&nbsp;</h6></td>               </tr>                         =
+             </tbody></table>             <!-- Email Body : END -->        =
+                   <!-- Email Footer : BEGIN -->                          <=
+!-- Email Footer : END -->                        </center></td>       </tr=
+>     </tbody></table>     <table style=3D"border-collapse: collapse;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-t=
+able-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing=
+: 0 !important;table-layout: fixed !important;margin: 0 auto !important;" w=
+idth=3D"100%" height=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" bgcolor=3D"FFFFFF">       <tbody><tr style=3D"-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;line-height: 100%;">         <td style=3D"=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%=
+;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><cente=
+r style=3D"width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;line-height: 100%;">         <table class=3D"email-container" style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;bord=
+er-spacing: 0 !important;border-collapse: collapse !important;table-layout:=
+ fixed !important;margin: 0 auto !important;" width=3D"720" align=3D"center=
+">             <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;line-height: 100%;">                 <td style=3D"padding=
+: 0px 0;text-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspa=
+ce: 0pt !important;"><h1 style=3D"color: #d10a11;font-family: 'Roboto', san=
+s-serif;font-size: 45px;font-weight: 300;margin-bottom: 0;margin-top: 50px;=
+text-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;line-height: 100%;">=C3=9Altimos art=C3=ADculos</h1></td>               <=
+/tr>           </tbody></table>                                            =
+                                <!-- Email Body : BEGIN -->             <ta=
+ble class=3D"email-container" style=3D"-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;ms=
+o-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse=
+: collapse !important;table-layout: fixed !important;margin: 0 auto !import=
+ant;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolo=
+r=3D"#ffffff" align=3D"center">                                            =
+                   <!-- Three Even Columns : BEGIN -->             <tbody><=
+tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-=
+height: 100%;">                 <td style=3D"padding: 10px;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspac=
+e: 0pt !important;mso-table-rspace: 0pt !important;" valign=3D"top" align=
+=3D"center"><table style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;table-layout: fixed !important;mso-table-lspac=
+e: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !impor=
+tant;border-collapse: collapse !important;margin: 0 auto !important;" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">                =
+     <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;line-height: 100%;">                     <td class=3D"stack-column-=
+center" style=3D"padding-right: 10px;padding-left: 10px;padding-bottom: 10p=
+x;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 10=
+0%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;" widt=
+h=3D"30%"><table class=3D"articolo" style=3D"-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;line-height: 100%;table-layout: fixed !importan=
+t;width: 220px;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !impo=
+rtant;border-spacing: 0 !important;border-collapse: collapse !important;mar=
+gin: 0 auto !important;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> =
+                        <tbody><tr style=3D"-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;line-height: 100%;">                         <td=
+ style=3D"padding: 0;cellspacing: 0;text-align: center;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0=
+pt !important;mso-table-rspace: 0pt !important;"><img src=3D"https://www.da=
+neurope.org/image/image_gallery?uuid=3Dd4fdc31b-9e05-46bc-bc95-6f14a19f2f52=
+&amp;groupId=3D10103&amp;t=3D1585921055174" style=3D"width: 100%;margin: 0p=
+x;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;li=
+ne-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" class=3D=
+"fluid" border=3D"0" /></td>                       </tr>                   =
+      <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;line-height: 100%;">                         <td style=3D"font-family: 'R=
+oboto', sans-serif;background-color: #eeeeee;font-size: 19px;mso-line-heigh=
+t-rule: exactly;color: #4a4a4a;line-height: 20px;padding: 15px;height: 200p=
+x;text-align: center;vertical-align: top;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: =
+0pt !important;" class=3D"center-on-narrow">&iquest;Puede ser, simplemente,=
+ por metabolismo? Un nuevo modelo para explicar la variabilidad 'burbujeant=
+e'</td>                       </tr>                       <tr style=3D"-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><=
+td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-=
+height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !import=
+ant;"><div style=3D"vertical-align: bottom;font-family: 'Roboto', sans-seri=
+f;background-color: #eeeeee;margin-top: 0px;padding-bottom: 15px;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><!--[if=
+ gte mso 9]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->                           =
+              <a href=3D"https://alertdiver.eu/es_ES/articulos/puede-ser-si=
+mplemente-por-metabolismo-un-nuevo-modelo-para-explicar-la-variabilidad-bur=
+bujeante" style=3D"color: #d10a11;display: block;font-size: 15px;font-weigh=
+t: 300;margin-left: 20px;margin-right: 20px;text-decoration: none;text-tran=
+sform: uppercase;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+line-height: 100%;" target=3D"_blank">                                     =
+    <span style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;line-height: 100%;">LEE EL ART=C3=8DCULO</span> <img alt=3D"" src=3D"http=
+s://daneurope.org/image/image_gallery?uuid=3Df3808322-d367-4cb8-a34b-761346=
+3a5bc9&amp;groupId=3D10103&amp;t=3D1472568818192" style=3D"padding-left: 5p=
+x;vertical-align: middle;border: 0px;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" /><=
+/a>                                         <!--[if gte mso 9]><br/>&nbsp;<=
+![endif]--></div></td>                                    </tr>            =
+                                                                           =
+ </tbody></table></td>                                            <td class=
+=3D"stack-column-center" style=3D"padding-right: 10px;padding-left: 10px;pa=
+dding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt =
+!important;" width=3D"30%"><table class=3D"articolo" style=3D"-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;table-layout=
+: fixed !important;width: 220px;mso-table-lspace: 0pt !important;mso-table-=
+rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collap=
+se !important;margin: 0 auto !important;" cellspacing=3D"0" cellpadding=3D"=
+0" border=3D"0">                         <tbody><tr style=3D"-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">           =
+              <td style=3D"padding: 0;cellspacing: 10;text-align: center;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;m=
+so-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><img src=
+=3D"https://www.daneurope.org/image/image_gallery?uuid=3Df10a75bd-d6d0-467d=
+-b19c-61627538c33c&amp;groupId=3D10103&amp;t=3D1585921055167" style=3D"widt=
+h: 100%;margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"=
+alt_text" class=3D"fluid" border=3D"0" /></td>                       </tr> =
+                        <tr style=3D"-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;line-height: 100%;">                         <td style=
+=3D"font-family: 'Roboto', sans-serif;background-color: #eeeeee;font-size: =
+19px;mso-line-height-rule: exactly;color: #4a4a4a;line-height: 20px;padding=
+: 15px;height: 200px;text-align: center;vertical-align: top;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important=
+;mso-table-rspace: 0pt !important;" class=3D"center-on-narrow">Explorando l=
+a cueva de Billinghurst</td>                       </tr>                   =
+    <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+line-height: 100%;"><td style=3D"-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-tabl=
+e-rspace: 0pt !important;"><div style=3D"vertical-align: bottom;font-family=
+: 'Roboto', sans-serif;background-color: #eeeeee;margin-top: 0px;padding-bo=
+ttom: 15px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;"><!--[if gte mso 9]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->      =
+                                   <a href=3D"https://alertdiver.eu/es_ES/a=
+rticulos/explorando-la-cueva-de-billinghurst" style=3D"color: #d10a11;displ=
+ay: block;font-size: 15px;font-weight: 300;margin-left: 20px;margin-right: =
+20px;text-decoration: none;text-transform: uppercase;-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;line-height: 100%;" target=3D"_blank"> =
+                                        <span style=3D"-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">LEE EL ART=C3=8DC=
+ULO</span> <img alt=3D"" src=3D"https://daneurope.org/image/image_gallery?u=
+uid=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;groupId=3D10103&amp;t=3D1472=
+568818192" style=3D"padding-left: 5px;vertical-align: middle;border: 0px;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;-=
+ms-interpolation-mode: bicubic;" /></a>                                    =
+     <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div></td>                 =
+                   </tr>                                                   =
+                                     </tbody></table></td>                 =
+    <td class=3D"stack-column-center" style=3D"padding-right: 10px;padding-=
+left: 10px;padding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table=
+-rspace: 0pt !important;" width=3D"30%"><table class=3D"articolo" style=3D"=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%=
+;table-layout: fixed !important;width: 220px;mso-table-lspace: 0pt !importa=
+nt;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-col=
+lapse: collapse !important;margin: 0 auto !important;" cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0">                         <tbody><tr style=3D"-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+">                         <td style=3D"padding: 0;cellspacing: 10;text-ali=
+gn: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !importa=
+nt;"><img src=3D"https://www.daneurope.org/image/image_gallery?uuid=3D254d4=
+185-75d5-4f71-8b2c-547d777e7430&amp;groupId=3D10103&amp;t=3D1585921055160" =
+style=3D"width: 100%;margin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicu=
+bic;" alt=3D"alt_text" class=3D"fluid" border=3D"0" /></td>                =
+       </tr>                         <tr style=3D"-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;line-height: 100%;">                      =
+   <td style=3D"font-family: 'Roboto', sans-serif;background-color: #eeeeee=
+;font-size: 19px;mso-line-height-rule: exactly;color: #4a4a4a;line-height: =
+20px;padding: 15px;height: 200px;text-align: center;vertical-align: top;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0p=
+t !important;mso-table-rspace: 0pt !important;" class=3D"center-on-narrow">=
+&iquest;Est=C3=A1s cubierto? Consideraciones sobre el seguro de buceo</td> =
+                      </tr>                                              <t=
+r style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;"><td style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspa=
+ce: 0pt !important;"><div style=3D"vertical-align: bottom;font-family: 'Rob=
+oto', sans-serif;background-color: #eeeeee;margin-top: 0px;padding-bottom: =
+15px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height:=
+ 100%;"><!--[if gte mso 9]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->            =
+                             <a href=3D"https://alertdiver.eu/es_ES/articul=
+os/estas-cubierto-consideraciones-sobre-el-seguro-de-buceo" class=3D"btn te=
+xt-primary text-uppercase font-size-12 margin-horizontal-20" style=3D"color=
+: #d10a11;display: block;font-size: 15px;font-weight: 300;margin-left: 20px=
+;margin-right: 20px;text-decoration: none;text-transform: uppercase;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" targ=
+et=3D"_blank">                                         <span style=3D"-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">LE=
+E EL ART=C3=8DCULO</span> <img alt=3D"" src=3D"https://daneurope.org/image/=
+image_gallery?uuid=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;groupId=3D101=
+03&amp;t=3D1472568818192" style=3D"padding-left: 5px;vertical-align: middle=
+;border: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line=
+-height: 100%;-ms-interpolation-mode: bicubic;" /></a>                     =
+                    <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div></td>  =
+                                  </tr>                                    =
+                                                    </tbody></table></td>  =
+                 </tr>                   </tbody></table></td>             =
+  </tr>                            <!-- Three Even Columns : END -->       =
+      <!-- Three Even Columns : BEGIN -->                                  =
+       <!-- Three Even Columns : END -->                                   =
+               </tbody></table>                        <!-- Email Body : EN=
+D -->               <table class=3D"email-container" style=3D"-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-ls=
+pace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !im=
+portant;border-collapse: collapse !important;table-layout: fixed !important=
+;margin: 0 auto !important;" width=3D"720" align=3D"center">             <t=
+body><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;line-height: 100%;">                 <td style=3D"padding: 0px 0;text-alig=
+n: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-he=
+ight: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !importan=
+t;"><h1 style=3D"color: #d10a11;font-family: 'Roboto', sans-serif;font-size=
+: 45px;font-weight: 300;margin-bottom: 0;margin-top: 50px;text-align: cente=
+r;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 10=
+0%;">=C3=9Altimas entradas en el blog</h1><h4 style=3D"color: #d10a11;font-=
+family: 'Roboto', sans-serif;font-size: 30px;font-weight: 300;margin-bottom=
+: 0;margin-top: 20px;text-align: center;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;line-height: 100%;">(en ingl=C3=A9s)</h4></td>      =
+         </tr>           </tbody></table>                                  =
+                                          <!-- Email Body : BEGIN -->      =
+       <table class=3D"email-container" style=3D"-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !im=
+portant;mso-table-rspace: 0pt !important;border-spacing: 0 !important;borde=
+r-collapse: collapse !important;table-layout: fixed !important;margin: 0 au=
+to !important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff" align=3D"center">                                  =
+                             <!-- Three Even Columns : BEGIN -->           =
+  <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;line-height: 100%;">                 <td style=3D"padding: 10px;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-t=
+able-lspace: 0pt !important;mso-table-rspace: 0pt !important;" valign=3D"to=
+p" align=3D"center"><table style=3D"-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;line-height: 100%;table-layout: fixed !important;mso-tab=
+le-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: =
+0 !important;border-collapse: collapse !important;margin: 0 auto !important=
+;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">        =
+             <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;">                     <td class=3D"stack=
+-column-center" style=3D"padding-right: 5px;padding-left: 5px;padding-botto=
+m: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-heig=
+ht: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;=
+" width=3D"30%"><table class=3D"articolo" style=3D"-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;line-height: 100%;table-layout: fixed !im=
+portant;width: 220px;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt=
+ !important;border-spacing: 0 !important;border-collapse: collapse !importa=
+nt;margin: 0 auto !important;" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0">                         <tbody><tr style=3D"-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;line-height: 100%;">                    =
+     <td style=3D"padding: 0;cellspacing: 0;text-align: center;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-l=
+space: 0pt !important;mso-table-rspace: 0pt !important;"><img src=3D"https:=
+//www.daneurope.org/image/image_gallery?uuid=3De5ac451e-cde1-4d57-b713-3399=
+3e47f21b&amp;groupId=3D10103&amp;t=3D1585921055185" style=3D"width: 100%;ma=
+rgin: 0px;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" =
+class=3D"fluid" border=3D"0" /></td>                       </tr>           =
+              <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;line-height: 100%;">                         <td style=3D"font-fa=
+mily: 'Roboto', sans-serif;background-color: #eeeeee;font-size: 19px;mso-li=
+ne-height-rule: exactly;color: #4a4a4a;line-height: 20px;padding: 15px;heig=
+ht: 130px;text-align: center;vertical-align: top;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-=
+rspace: 0pt !important;" class=3D"center-on-narrow">Fitness and diving</td>=
+                       </tr>                       <tr style=3D"-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><td styl=
+e=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height:=
+ 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><=
+div style=3D"vertical-align: bottom;font-family: 'Roboto', sans-serif;backg=
+round-color: #eeeeee;margin-top: 0px;padding-bottom: 15px;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><!--[if gte ms=
+o 9]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->                                  =
+       <a href=3D"https://blog.daneurope.org/en_US/blog/fitness-and-diving"=
+ class=3D"btn text-primary text-uppercase font-size-12 margin-horizontal-20=
+" style=3D"color: #d10a11;display: block;font-size: 15px;font-weight: 300;m=
+argin-left: 20px;margin-right: 20px;text-decoration: none;text-transform: u=
+ppercase;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-hei=
+ght: 100%;" target=3D"_blank">                                         <spa=
+n style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;">LEE M=C3=81S</span> <img alt=3D"" src=3D"https://daneurope.or=
+g/image/image_gallery?uuid=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;group=
+Id=3D10103&amp;t=3D1472568818192" style=3D"padding-left: 5px;vertical-align=
+: middle;border: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;line-height: 100%;-ms-interpolation-mode: bicubic;" /></a>             =
+                            <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div=
+></td>                                    </tr>                            =
+                                                            </tbody></table=
+></td>                                            <td class=3D"stack-column=
+-center" style=3D"padding-right: 5px;padding-left: 5px;padding-bottom: 10px=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100=
+%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;" width=
+=3D"30%"><table class=3D"articolo" style=3D"-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;line-height: 100%;table-layout: fixed !important=
+;width: 220px;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !impor=
+tant;border-spacing: 0 !important;border-collapse: collapse !important;marg=
+in: 0 auto !important;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">  =
+                       <tbody><tr style=3D"-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;line-height: 100%;">                         <td =
+style=3D"padding: 0;cellspacing: 10;text-align: center;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0=
+pt !important;mso-table-rspace: 0pt !important;"><img src=3D"https://www.da=
+neurope.org/image/image_gallery?uuid=3D4ac91e32-6ad3-49b1-87c2-36ead5c64cff=
+&amp;groupId=3D10103&amp;t=3D1585921055152" style=3D"width: 100%;margin: 0p=
+x;padding: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;li=
+ne-height: 100%;-ms-interpolation-mode: bicubic;" alt=3D"alt_text" class=3D=
+"fluid" border=3D"0" /></td>                       </tr>                   =
+      <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;line-height: 100%;">                         <td style=3D"font-family: 'R=
+oboto', sans-serif;background-color: #eeeeee;font-size: 19px;mso-line-heigh=
+t-rule: exactly;color: #4a4a4a;line-height: 20px;padding: 15px;height: 130p=
+x;text-align: center;vertical-align: top;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: =
+0pt !important;" class=3D"center-on-narrow">Aging Diver</td>               =
+        </tr>                       <tr style=3D"-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;line-height: 100%;"><td style=3D"-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table=
+-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><div style=3D"ve=
+rtical-align: bottom;font-family: 'Roboto', sans-serif;background-color: #e=
+eeeee;margin-top: 0px;padding-bottom: 15px;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;line-height: 100%;"><!--[if gte mso 9]>&nbsp;&nbs=
+p;&nbsp;&nbsp;<![endif]-->                                         <a href=
+=3D"https://blog.daneurope.org/en_US/blog/aging-diver" class=3D"btn text-pr=
+imary text-uppercase font-size-12 margin-horizontal-20" style=3D"color: #d1=
+0a11;display: block;font-size: 15px;font-weight: 300;margin-left: 20px;marg=
+in-right: 20px;text-decoration: none;text-transform: uppercase;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;" target=3D=
+"_blank">                                         <span style=3D"-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">LEE M=
+=C3=81S</span> <img alt=3D"" src=3D"https://daneurope.org/image/image_galle=
+ry?uuid=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;groupId=3D10103&amp;t=3D=
+1472568818192" style=3D"padding-left: 5px;vertical-align: middle;border: 0p=
+x;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 10=
+0%;-ms-interpolation-mode: bicubic;" /></a>                                =
+         <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div></td>             =
+                       </tr>                                               =
+                                         </tbody></table></td>             =
+        <td class=3D"stack-column-center" style=3D"padding-right: 5px;paddi=
+ng-left: 5px;padding-bottom: 10px;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-tab=
+le-rspace: 0pt !important;" width=3D"30%"><table class=3D"articolo" style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;table-layout: fixed !important;width: 220px;mso-table-lspace: 0pt !imp=
+ortant;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border=
+-collapse: collapse !important;margin: 0 auto !important;" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0">                         <tbody><tr style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;">                         <td style=3D"padding: 0;cellspacing: 10;tex=
+t-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;l=
+ine-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !im=
+portant;"><img src=3D"https://www.daneurope.org/image/image_gallery?uuid=3D=
+00daa4f5-7703-4a48-b3b5-6e3ac8a35205&amp;groupId=3D10103&amp;t=3D1585921055=
+140" style=3D"width: 100%;margin: 0px;padding: 0px;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode:=
+ bicubic;" alt=3D"alt_text" class=3D"fluid" border=3D"0" /></td>           =
+            </tr>                         <tr style=3D"-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">                 =
+        <td style=3D"font-family: 'Roboto', sans-serif;background-color: #e=
+eeeee;font-size: 19px;mso-line-height-rule: exactly;color: #4a4a4a;line-hei=
+ght: 20px;padding: 15px;height: 130px;text-align: center;vertical-align: to=
+p;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspac=
+e: 0pt !important;mso-table-rspace: 0pt !important;" class=3D"center-on-nar=
+row">7 Heavenly European dive destinations</td>                       </tr>=
+                       <tr style=3D"-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;line-height: 100%;"><td style=3D"-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt =
+!important;mso-table-rspace: 0pt !important;"><div style=3D"vertical-align:=
+ bottom;font-family: 'Roboto', sans-serif;background-color: #eeeeee;margin-=
+top: 0px;padding-bottom: 15px;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;line-height: 100%;"><!--[if gte mso 9]>&nbsp;&nbsp;&nbsp;&nbsp=
+;<![endif]-->                                         <a href=3D"https://bl=
+og.daneurope.org/en_US/blog/7-heavenly-european-dive-destinations" class=3D=
+"btn text-primary text-uppercase font-size-12 margin-horizontal-20" style=
+=3D"color: #d10a11;display: block;font-size: 15px;font-weight: 300;margin-l=
+eft: 20px;margin-right: 20px;text-decoration: none;text-transform: uppercas=
+e;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 10=
+0%;" target=3D"_blank">                                         <span style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;">LEE M=C3=81S</span> <img alt=3D"" src=3D"https://daneurope.org/image=
+/image_gallery?uuid=3Df3808322-d367-4cb8-a34b-7613463a5bc9&amp;groupId=3D10=
+103&amp;t=3D1472568818192" style=3D"padding-left: 5px;vertical-align: middl=
+e;border: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;-ms-interpolation-mode: bicubic;" /></a>                    =
+                     <!--[if gte mso 9]><br/>&nbsp;<![endif]--></div></td> =
+                                   </tr>                                   =
+                                                     </tbody></table></td> =
+                  </tr>                   </tbody></table></td>            =
+   </tr>                                                           <tr styl=
+e=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height:=
+ 100%;">                 <td style=3D"padding: 0px 0;text-align: center;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;ms=
+o-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><h1 style=
+=3D"color: #d10a11;font-family: 'Roboto', sans-serif;font-size: 45px;font-w=
+eight: 300;margin-bottom: 0;margin-top: 50px;text-align: center;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">Test</h1=
+></td>                              </tr>                       </tbody></t=
+able><br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;line-height: 100%;" />                            <div style=3D"margin: 0p=
+x 0px 0px 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;"><table class=3D"email-container" style=3D"margin-bottom: 1=
+0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;bord=
+er-spacing: 0 !important;border-collapse: collapse !important;table-layout:=
+ fixed !important;margin: 0 auto !important;" width=3D"720" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center">    =
+                      <!-- Hero Image, Flush : BEGIN -->             <tbody=
+><tr style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;lin=
+e-height: 100%;">                 <td class=3D"full-width-image" style=3D"-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;=
+mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"><a href=
+=3D"https://alertdiver.eu/es_ES/quizzes/soporte-vital-basico-y-primeros-aux=
+ilios" target=3D"_blank" style=3D"-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;line-height: 100%;"><img src=3D"https://www.daneurope.org/=
+image/image_gallery?uuid=3D613e258d-a754-48e5-a29e-bc94806703c8&amp;groupId=
+=3D10103&amp;t=3D1585928871412" alt=3D"alt_text" style=3D"width: 100%;max-w=
+idth: 720px;height: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" border=3D"0" al=
+ign=3D"middle" /></a></td>               </tr>                             =
+                                                          </tbody></table><=
+/div><br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;line-height: 100%;" />                                           <table cl=
+ass=3D"email-container" style=3D"-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-tabl=
+e-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: coll=
+apse !important;table-layout: fixed !important;margin: 0 auto !important;" =
+width=3D"720" height=3D"30" align=3D"center">             <tbody><tr style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: =
+100%;">                 <td style=3D"padding: 20px 0;text-align: center;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;ms=
+o-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">&nbsp;</t=
+d>               </tr>           </tbody></table>           <table class=3D=
+"email-container" style=3D"margin-bottom: 10px;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !impo=
+rtant;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-=
+collapse: collapse !important;table-layout: fixed !important;margin: 0 auto=
+ !important;" width=3D"720" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+" bgcolor=3D"#ffffff" align=3D"center">                          <!-- Hero =
+Image, Flush : BEGIN -->             <tbody><tr style=3D"-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">               =
+  <td class=3D"full-width-image" style=3D"-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important=
+;mso-table-rspace: 0pt !important;"><a href=3D"http://www.daneurope.org/web=
+/guest/registration" target=3D"_blank" style=3D"-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;line-height: 100%;"><img src=3D"https://www.=
+daneurope.org/image/image_gallery?uuid=3Dc0243bac-5900-4640-9c83-b921b2c36b=
+47&amp;groupId=3D10103&amp;t=3D1492504499961" alt=3D"alt_text" style=3D"wid=
+th: 100%;max-width: 720px;height: auto;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;line-height: 100%;-ms-interpolation-mode: bicubic;" b=
+order=3D"0" align=3D"middle" /></a></td>               </tr>               =
+                                                              </tbody></tab=
+le>                                   <!-- Email Footer : BEGIN -->        =
+    <br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+line-height: 100%;" /><br style=3D"-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;line-height: 100%;" />                        <table clas=
+s=3D"email-container" style=3D"-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-=
+rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collap=
+se !important;table-layout: fixed !important;margin: 0 auto !important;" wi=
+dth=3D"720" align=3D"center">             <tbody><tr style=3D"-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">          =
+               <td class=3D"text-gray-light" colspan=3D"5" style=3D"color: =
+#A0A0A0;font-family: 'Roboto', sans-serif;font-weight: 300;table-layout: fi=
+xed;font-size: 14px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;line-height: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt=
+ !important;" align=3D"center"><br style=3D"-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;line-height: 100%;" />                          =
+                                <br style=3D"-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;line-height: 100%;" />                         =
+                                 <div style=3D"padding-right: 13px;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">Est=
+=C3=A1s recibiendo este correo electr=C3=B3nico porque est=C3=A1s afiliado =
+a DAN o lo has sido anteriormente (E-mail: jorgepiedrafita@gmail.com). Para=
+ asegurarte de recibir nuestros mensajes de correo electr=C3=B3nico, por fa=
+vor adjunta a tu libreta de direcciones                                  <a=
+ href=3D"mailto:newsletter@alertdiver.eu" style=3D"text-decoration: none;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"=
+><span style=3D"color: #d10a11;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;line-height: 100%;">newsletter@alertdiver.eu</span></a>. Para=
+ saber c=C3=B3mo manejamos tu informaci=C3=B3n personal, consulte nuestra <=
+a href=3D"https://www.daneurope.org/web/guest/privacy" style=3D"text-decora=
+tion: none;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-h=
+eight: 100%;"><span style=3D"color: #d10a11;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;line-height: 100%;">Pol=C3=ADtica de privacidad<=
+/span></a>. Si prefieres no recibir m=C3=A1s correos de DAN Europe,        =
+                          <a href=3D"mailto:mail@daneurope.org?subject=3DUn=
+subscribe_ES_4196" style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;line-height: 100%;">                                 <span style=
+=3D"color: #d10a11;text-decoration: underline;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;line-height: 100%;">cancela</span></a> la susc=
+ripci=C3=B3n a este servicio.</div>                                        =
+         <br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;line-height: 100%;" />                 DAN Europe Foundation <a href=
+=3D"mailto:communications@daneurope.org" style=3D"text-decoration: none;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;">=
+<span style=3D"color: #d10a11;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;line-height: 100%;">communications@daneurope.org</span></a>  |=
+ <a href=3D"http://daneurope.org/" style=3D"text-decoration: none;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 100%;"><span =
+style=3D"color: #d10a11;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;line-height: 100%;" target=3D"_blank">www.daneurope.org</span></a> <=
+br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-=
+height: 100%;" />Tel=C3=A9fono +39 085 893 0333 | Fax +39 085 893 0050 <br =
+style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-hei=
+ght: 100%;" /><br style=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;line-height: 100%;" />                </td></tr>           </tbod=
+y></table>                        <!-- Email Footer : END -->              =
+          </center></td>       </tr>     </tbody></table>
+------=_Part_39658_391505985.1586169071571--
+

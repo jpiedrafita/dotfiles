@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="xarchiver.desktop" open-window-count="0" score="5.5" last-seen="1648927560"/>
-    <application id="conky-manager.desktop" open-window-count="0" score="71" last-seen="1648990606"/>
+    <application id="xarchiver.desktop" open-window-count="0" score="2.75" last-seen="1648927560"/>
+    <application id="conky-manager.desktop" open-window-count="0" score="35.5" last-seen="1648990606"/>
     <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1648629311"/>
-    <application id="firefox.desktop" open-window-count="2" score="25252.25" last-seen="1649235321"/>
-    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="14" last-seen="1648935490"/>
-    <application id="org.gnome.Screenshot.desktop" open-window-count="0" score="1.5" last-seen="1648809039"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="107" last-seen="1649233661"/>
-    <application id="chrome-egmafekfmcnknbdlbfbhafbllplmjlhn-Default.desktop" open-window-count="0" score="1" last-seen="1648995628"/>
-    <application id="gnome-control-center.desktop" open-window-count="0" score="38" last-seen="1649061672"/>
-    <application id="eog.desktop" open-window-count="0" score="4.5" last-seen="1648990146"/>
+    <application id="firefox.desktop" open-window-count="2" score="18933.125" last-seen="1649403542"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="7" last-seen="1648935490"/>
+    <application id="org.gnome.Screenshot.desktop" open-window-count="0" score="0.75" last-seen="1648809039"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="55" last-seen="1649236465"/>
+    <application id="chrome-egmafekfmcnknbdlbfbhafbllplmjlhn-Default.desktop" open-window-count="0" score="0.5" last-seen="1648995628"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="19" last-seen="1649061672"/>
+    <application id="eog.desktop" open-window-count="0" score="2.25" last-seen="1648990146"/>
     <application id="firewall-config.desktop" open-window-count="0" score="0" last-seen="1648925004"/>
     <application id="org.gnome.font-viewer.desktop" open-window-count="0" score="0" last-seen="1648936316"/>
-    <application id="google-chrome.desktop" open-window-count="0" score="34.5" last-seen="1649078827"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="149" last-seen="1649235325"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="17.25" last-seen="1649078827"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="85.5" last-seen="1649403543"/>
     <application id="org.gnome.Dictionary.desktop" open-window-count="0" score="0" last-seen="1648925011"/>
-    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="57.5" last-seen="1649231202"/>
-    <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="23.5" last-seen="1648918130"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="1890.75" last-seen="1649235328"/>
-    <application id="spotify_spotify.desktop" open-window-count="0" score="0.25" last-seen="1648990606"/>
+    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="28.75" last-seen="1649231202"/>
+    <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="11.75" last-seen="1648918130"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="6701.375" last-seen="1649403479"/>
+    <application id="spotify_spotify.desktop" open-window-count="0" score="0.125" last-seen="1648990606"/>
     <application id="org.gnome.DiskUtility.desktop" open-window-count="0" score="0" last-seen="1648925025"/>
-    <application id="org.gnome.Weather.Application.desktop" open-window-count="0" score="2.5" last-seen="1648642251"/>
-    <application id="libreoffice-calc.desktop" open-window-count="0" score="6" last-seen="1648991686"/>
-    <application id="org.gnome.Software.desktop" open-window-count="0" score="24" last-seen="1649077368"/>
-    <application id="thunderbird.desktop" open-window-count="0" score="72.25" last-seen="1648995640"/>
+    <application id="org.gnome.Weather.Application.desktop" open-window-count="0" score="1.25" last-seen="1648642251"/>
+    <application id="libreoffice-calc.desktop" open-window-count="0" score="3" last-seen="1648991686"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="14" last-seen="1649402530"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="36.125" last-seen="1649236328"/>
   </context>
 </application-state>

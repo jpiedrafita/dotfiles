@@ -1,0 +1,245 @@
+From - Sat Apr  2 18:32:01 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: reventlovgis@gmail.com
+Received: by 2002:a05:7010:7489:b0:238:b978:a396 with SMTP id y9csp1916770mdd;
+        Sat, 2 Apr 2022 09:29:02 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJyX0WdWRRG7by6f2iQknN871TWkIiI9paPuC/u5/k4FFGGJwVsGwHJCbEKvE4BCLWRawQzm
+X-Received: by 2002:a25:9206:0:b0:63d:9110:726b with SMTP id b6-20020a259206000000b0063d9110726bmr4125954ybo.339.1648916942215;
+        Sat, 02 Apr 2022 09:29:02 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1648916942; cv=none;
+        d=google.com; s=arc-20160816;
+        b=XsLarK9d4X3UzywnZaKzNj9nXM1e6nGNBw8qOq3SDbbBaMc1fUbo3Muec+bvCNAFV7
+         zPL9yVnqEL70Gs2iKXBkzLQ+twHgu/+g9noSncj75mrC7RIuPmMBmFEiBhvbrAWEtHPY
+         TF7VZKrNfeotqxPP3H0673+1RAjD/VlTP9tmqbhZh9FYuSmixCN4gnVQwrfT2jds/y+4
+         BkDLdQR4HApiNTkrA4TA28skVc3CBSc/nBVo68TBUxa/lDTpdd4RGNtuBL4yb6iMpQJw
+         rQb4ssOBCeSLaGWh9EPVGY4sPQyRN0Z42udJJ2Q1o6pusO2hVQsIIfvSn1rJszGQOt+i
+         wPTw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:reply-to:subject:message-id:mime-version:from:date
+         :dkim-signature:dkim-signature;
+        bh=sm0tr2y63CvPNVCIEMDUZ581tjZK/r0/OsQ1pz/OnUw=;
+        b=iZy5vEJwJVpHCKrr5W6CE8JnuRrUYVaw+ujP7AkUaA3cgxNP9S3SnFGe/rMxxpuy9t
+         B9/oXGeDP8xefvTfYD7l2R09aS9LM2an8vvDVxclAeVe5HoU87PxYnpWmy5nwW876UdH
+         IQh9sjRRpTLkhamD2giguq2l3kZYwRJpB0EcgY5jonuwxZSs6U6RrLPF99rND76VD3YW
+         0bsG8iNvH/Fni4ZkUbBfvvb5tvLe8uFPVUHTjqhzYoZnLuKwgYF2hVzswz5W6STGPWVa
+         JjKwEaZL8pxQaKhP0eZofgzc94D7edbhno1nReih+acDGr4BquaNplUfXLgYzzgiypcF
+         OMHA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@deviantart.com header.s=sg header.b=kS1GOwMF;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=skNwkF5M;
+       spf=pass (google.com: domain of bounces+19913931-803d-reventlovgis=gmail.com@em7717.deviantart.com designates 149.72.76.74 as permitted sender) smtp.mailfrom="bounces+19913931-803d-reventlovgis=gmail.com@em7717.deviantart.com";
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=deviantart.com
+Return-Path: <bounces+19913931-803d-reventlovgis=gmail.com@em7717.deviantart.com>
+Received: from o3.stx.deviantart.com (o3.stx.deviantart.com. [149.72.76.74])
+        by mx.google.com with ESMTPS id g3-20020a81ae43000000b002ea0ed06695si5947251ywk.2.2022.04.02.09.29.01
+        for <reventlovgis@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sat, 02 Apr 2022 09:29:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+19913931-803d-reventlovgis=gmail.com@em7717.deviantart.com designates 149.72.76.74 as permitted sender) client-ip=149.72.76.74;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@deviantart.com header.s=sg header.b=kS1GOwMF;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=skNwkF5M;
+       spf=pass (google.com: domain of bounces+19913931-803d-reventlovgis=gmail.com@em7717.deviantart.com designates 149.72.76.74 as permitted sender) smtp.mailfrom="bounces+19913931-803d-reventlovgis=gmail.com@em7717.deviantart.com";
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=deviantart.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=deviantart.com;
+	h=content-type:from:mime-version:subject:reply-to:x-feedback-id:to;
+	s=sg; bh=sm0tr2y63CvPNVCIEMDUZ581tjZK/r0/OsQ1pz/OnUw=;
+	b=kS1GOwMFu6FkVcCFImvpLZ4nBtgobp/JQda6OMrEIsIvbhnvW9/tlzMeRWrTH0EIMilP
+	7NENgaagEAyEBCvfT0RX8fzkIYuRiCog5UzhazSbctFOjfGhmTG5sQoSc6e4EJjnC+YAby
+	TZ9Yey+eBCBkU6geizjhF7C6NUveRICmeFHZ51Ii7EUaWKxhn3ezsV6zA0nFLI+pxXBrUg
+	/PlNYoLBK9ycdVMRBu4T1oswO8jJ+ZwcWgP2/mrcrpn1+YcjPxCQ6LW2UpN5gGx+3CTC2W
+	8lbH9NiimNXC0T/XSHwNcuqoqW2vixFfj9JrR4rNt/R80SKcDyEOhYZGWQveCKzQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:x-feedback-id:to;
+	s=smtpapi; bh=sm0tr2y63CvPNVCIEMDUZ581tjZK/r0/OsQ1pz/OnUw=;
+	b=skNwkF5MRCnXLAVZNzUk87RvqCY3bpNWqoF8RafTQeRA2yTi4QKzOEeZeoiYC5wIFUN/
+	kZ7lDXZB5MS7WrMRpuloXUSx9ung7nGRHoeyTqX6WXbio2097MNVj+dvD/zgdj+i1xNKDX
+	/zlMozozspq33qbQhBDuMCX6X7/Pt8uA8=
+Received: by filterdrecv-656998cfdd-dxhv8 with SMTP id filterdrecv-656998cfdd-dxhv8-1-624879CC-25
+        2022-04-02 16:29:00.531026475 +0000 UTC m=+16650102.408966011
+Received: from MTk5MTM5MzE (unknown)
+	by geopod-ismtpd-5-0 (SG) with HTTP
+	id zoBnQsBrRWeqtj928xgZnw
+	Sat, 02 Apr 2022 16:29:00.436 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=31349bc994517afcc70c46d783d3034f5e28fc3c9d0afbaadfec576dac44
+Date: Sat, 02 Apr 2022 16:29:00 +0000 (UTC)
+From: DeviantArt <noreply@deviantart.com>
+Mime-Version: 1.0
+Message-ID: <zoBnQsBrRWeqtj928xgZnw@geopod-ismtpd-5-0>
+Subject: Please Confirm Your Email Address
+Reply-To: noreply@deviantart.com
+X-Feedback-ID: 19913931:SG
+X-SG-EID: 
+ =?us-ascii?Q?E7eVMun703ASzyKTYiHF5sxBMkIFjMRan=2Fk5SUfvGtcG9VpCHXV3gWvV89EMq0?=
+ =?us-ascii?Q?n5zp5c5SqzZIef3=2Fm1l7WYD0HMyW3Pj0t52afjG?=
+ =?us-ascii?Q?6TD64=2F+6FLudRbKZGZoJuENcX+pN+rDP2a0XPJz?=
+ =?us-ascii?Q?LSxtgCwqLTh5v3pRcbfh+=2Fa+aArsuH7aEtu4rgG?=
+ =?us-ascii?Q?+iFOKBqJHa4xzCH2o8kiBij+UanGJMFI8XWtdHU?=
+ =?us-ascii?Q?581HYzRq6qsESLdGC1B+OElrdc4+38IaLttsLh?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb=2FTUC2i38+lWObeYhPBtV=2FOmSV4sTF1TPzVKWYr83Z?=
+ =?us-ascii?Q?kBiSu=2FrNnr2TxQGwmUEep1RaJXbkc3ow63lhrLo?=
+ =?us-ascii?Q?uOM90m5tc+veV2Om3bs1VhkYgZl?=
+To: reventlovgis@gmail.com
+X-Entity-ID: Epzw1J+2FtzpvrtOzKkJSw==
+
+--31349bc994517afcc70c46d783d3034f5e28fc3c9d0afbaadfec576dac44
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+You're about to join the world's largest art community -- 61 million creati=
+ves and over 370 million deviations. Before you dive in, take a second to c=
+onfirm your email. Just click the link below.
+
+https://www.deviantart.com/verify/555119025e31ebd614dc737e93b7bfb2/0/1/0/k
+--31349bc994517afcc70c46d783d3034f5e28fc3c9d0afbaadfec576dac44
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-W3CDTD XHTML 1.0 Transitional EN" "http://www.w3.or=
+g/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir=3D"ltr"><head> <title>Pl=
+ease Confirm Your Email Address</title> <style>a{outline:none;}</style> <st=
+yle type=3D"text/css">body {
+  background: white; }
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%; }
+
+body, table, td, div, span, a, li, img {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+table {
+  table-layout: fixed;
+  border-spacing: 0; }
+  table td {
+    border-collapse: collapse;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    color: white;
+    background-color: black; }
+  table a {
+    text-decoration: none; }
+
+table.main {
+  margin: 0 auto;
+  width: 100%;
+  min-width: 320px;
+  max-width: 980px;
+  color: white;
+  background-color: black;
+  box-sizing: border-box; }
+  table.main * {
+    box-sizing: border-box; }
+
+.footer span {
+  color: #66737C !important; }
+
+@media only screen and (max-width: 514px) {
+  .maincontent {
+    text-align: left; }
+  .headline .mobile {
+    margin: 0 auto;
+    padding: 0;
+    text-align: left;
+    font-size: 28px;
+    line-height: 34px; }
+  .blurb .mobile {
+    padding: 0;
+    text-align: left;
+    font-size: 16px;
+    line-height: 23px; }
+  .cta-button {
+    display: inline-block;
+    margin: 0 auto; } }
+
+</style> </head><body style=3D"background-color:#ffffff;margin:0;padding:0;=
+min-width:100%;width:100%;height:100%;-ms-text-size-adjust:100%;-webkit-tex=
+t-size-adjust:100%;">
+ <table class=3D"main" style=3D"table-layout:fixed;border-spacing:0;width:1=
+00%;max-width:980px;min-width:320px;margin:0 auto;background-color:black;" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"980"> <tr> <td st=
+yle=3D"width:50%;padding:30px 0px 20px 30px;mso-cellspacing:0;mso-padding-a=
+lt:30px 0px 20px 30px;" align=3D"left" valign=3D"middle"><img class=3D"logo=
+" src=3D"https://www.da-files.com/creative/2019/email/deviantart_logo.png?3=
+480819367" style=3D"width:100px;height:25px;display:block;" width=3D"100" h=
+eight=3D"25" alt=3D"DeviantArt"/></td> <td style=3D"width:50%;padding:30px =
+30px 20px 10px;font-size:12px;line-height:18px;" align=3D"right" valign=3D"=
+middle"><a class=3D"cta" href=3D"https://www.deviantart.com/verify/55511902=
+5e31ebd614dc737e93b7bfb2/0/1/0/k?quix=3Dtop_button" style=3D"font-family:Ca=
+libri, Helvetica, Arial, sans-serif;color:#00e59b;text-decoration:none;font=
+-weight:bold;">Confirm Email &#8594;</a></td> </tr> <tr> <td class=3D"mainc=
+ontent" style=3D"width:100%;padding:20px 30px 30px 30px;" align=3D"center" =
+valign=3D"top" colspan=3D"2">
+ <div class=3D"headline" style=3D"font-weight:bold;margin:0 auto;padding:0 =
+0 20px 0;color:#ffffff;max-width:400px;text-align:center;font-size:36px;lin=
+e-height:46px;">
+ <div class=3D"mobile">Get started on your devious journey, chorchernr</div=
+>
+ </div>
+ <div class=3D"blurb" style=3D"padding:0px 0px 30px 0px;margin:0 auto;max-w=
+idth:440px;color:#ffffff;text-align:center;font-size:14px;line-height:20px;=
+">
+ <div class=3D"mobile">You're about to join the world's largest art communi=
+ty -- 61 million creatives and over 370 million deviations. Before you dive=
+ in, take a second to confirm your email. Just click the button below.</div=
+>
+ </div>
+ <div class=3D"cta-button"><a href=3D"https://www.deviantart.com/verify/555=
+119025e31ebd614dc737e93b7bfb2/0/1/0/k?quix=3Dbutton" style=3D"display:inlin=
+e-block; width:152px; margin: 0 auto;">
+ <table style=3D"display:inline-block;" cellspacing=3D"0" cellpadding=3D"0"=
+> <tr> <td style=3D"border-radius:0px;display:block;text-align:center;width=
+:152px;font-family:Calibri, Helvetica, Arial, sans-serif;margin:0 auto;padd=
+ing:15px 5px 15px 5px;mso-cellspacing:0;mso-padding-alt:15px 5px 15px 5px;f=
+ont-size:12px;background-color:#00e59b;" align=3D"center" bgcolor=3D"#00e59=
+b"><a href=3D"https://www.deviantart.com/verify/555119025e31ebd614dc737e93b=
+7bfb2/0/1/0/k?quix=3Dbutton" style=3D"color:#000000;font-size:12px;line-hei=
+ght:18px;font-weight:bold;font-family:Calibri, Helvetica, Arial, sans-serif=
+;text-align:center;text-decoration:none;display:inline-block;">Confirm My E=
+mail</a></td> </tr> </table></a></div>
+ </td> </tr> <tr><td colspan=3D"2" align=3D"center" valign=3D"top" style=3D=
+"padding-bottom: 0px; padding-top: 0px;width: 100%;max-width:980px;height:3=
+47px;background-image: url(https://www.da-files.com/creative/2019/email/bg-=
+verification.jpg); background-color: #000000; border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%;background-repeat: no-repeat!important;backgrou=
+nd-size:100%; background-position: bottom;background-size: cover;">
+
+
+ <div class=3D"div" style=3D"font-size:12px;color:#ffffff;text-align:center=
+;">Featured Artist:&nbsp;<a href=3D"https://www.deviantart.com/AxiomDesign?=
+quix=3Dfeatured_artist" style=3D"color:#ffffff;font-weight:bold;text-decora=
+tion:none;font-size:12px;">AxiomDesign</a></div>
+
+</td> </tr> <tr> <td style=3D"padding:30px;color:#ffffff;font-size:12px;lin=
+e-height:18px;font-family:Calibri, Helvetica, Arial, sans-serif;" colspan=
+=3D"2">
+ <div class=3D"footer" style=3D"text-align:center;"><span style=3D"padding-=
+bottom:0px;font-weight:normal;font-size:12px;color:#66737C !important;text-=
+decoration:none;">DeviantArt, Inc., 7111 Santa Monica Blvd, Ste B, PO Box 2=
+30, West Hollywood, CA 90046, USA<br/><a href=3D"https://www.deviantart.com=
+?quix=3Dfooter" style=3D"color:#67737b;text-decoration:underline;font-size:=
+12px;line-height:20px;">DeviantArt.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=
+=3D"https://about.deviantart.com/policy/privacy/?quix=3Dprivacy_policy" sty=
+le=3D"color:#66737C;text-decoration:underline;">Privacy Policy</a></span></=
+div>
+ </td> </tr> </table>
+<img src=3D"https://sg.deviantart.com/wf/open?upn=3DJbvOISq1Kw2mRKM1fKAISOW=
+rSQEtuGs-2BCza-2B-2FToXMt1IIyaUVAAC2JulhzyNYUjXrWnOawXC80N-2BHB4UgroUQ-2B-2=
+F-2BdN7qQoceuCRrYd2oqRTebo0ncFKt486qsXzpm7FobUWEAA8aC-2FaOnfcM3k9DvOcxE8Joq=
+c1vPJIhXJ5-2FCGPbOzfxuV1VpCmS1QT8uyu8luJYKAma-2Bzj7FDec-2BJTWhIrkFuPW8Pxio2=
+xcEi2cOnZXHQt7vgOC0LPVoU-2Fq7fYlC6sU2ymfjl9PQrip0rzxzG4XIvJIzAxtoEcnK3uDVG9=
+CWyA7lNcj-2Fn9-2B-2FGv-2FZn6vgh73t4q1ffDNaBMzfmD4dA-3D-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/></body></html>
+--31349bc994517afcc70c46d783d3034f5e28fc3c9d0afbaadfec576dac44--

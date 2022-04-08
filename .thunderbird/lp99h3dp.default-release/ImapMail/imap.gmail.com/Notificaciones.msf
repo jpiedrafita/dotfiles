@@ -1,0 +1,60 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=folderName)(B9=X-GM-MSGID)(BA=X-GM-THRID)(BB=X-GM-LABELS)
+  (BC=ns:msg:db:row:scope:ops:all)(BD=ns:msg:db:table:kind:ops)
+  (BE=keywords)(BF=storeToken)(C0=retainBy)(C1=daysToKeepHdrs)
+  (C2=numHdrsToKeep)(C3=daysToKeepBodies)(C4=useServerDefaults)
+  (C5=cleanupBodies)(C6=applyToFlaggedMessages)(C7=useServerRetention)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=statusOfset)(8C=numLines)(8D=ccList)(8E=bccList)
+  (8F=msgThreadId)(90=threadId)(91=threadFlags)(92=threadNewestMsgDate)
+  (93=children)(94=unreadChildren)(95=threadSubject)(96=msgCharSet)
+  (97=ns:msg:db:table:kind:msgs)(98=ns:msg:db:table:kind:thread)
+  (99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)(AD=forceReparse)
+  (AE=fixedBadRefThreading)(AF=onlineName)(B0=highestModSeq)
+  (B1=imapFlags)(B2=highestRecordedUID)(B3=replyTo)
+  (B4=ns:msg:db:row:scope:pending:all)(B5=ns:msg:db:table:kind:pending)
+  (B6=dateReceived)(B7=ProtoThreadFlags)>
+<(92=3)(8D=5e8b04ef)(81=0)(80=1)>
+[1:m(^9C=3)(^90=3)(^92^8D)(^91=0)(^93=1)]
+<(99=9)(97=5f23ff38)>[2:m(^9C=9)(^90=9)(^92^97)(^91=0)(^93=1)]
+
+<(9D=10000081)(88=No-Reply <noreply@daneurope.org>)(89
+    =Alert Diver <newsletter@alertdiver.eu>)(8A=jorgepiedrafita@gmail.com)
+  (8B
+    =Un nuevo modelo para explicar la variabilidad 'burbujeante',  la cueva de\
+ Billinghurst, Consideraciones sobre el seguro de buceo)(8C
+    =669395608.792471586169071573.JavaMail.root@wais5-ktis)(8F=ed31)
+  (91=ffffffff)(93=1663218884264866615)(87=)(9E=ecbc)(A0=60604)(A1=ed84)
+  (A2=318)(94=No-Reply <no-reply@daneurope.org>)(95
+    ==?UTF8?Q?Un_Reinicio_Seguro;_=C2=BFPor_qu=C3=A9_tener_un_segu?= =?UTF8?Q?\
+ro_de_buceo=3F:_Explorando_el_cenote_Xulo...?=)(96
+    =229884324.133451596194616087.JavaMail.vivieb@dan-wais)(98=ec69)
+  (9B=1673731429529029310)(9C="\\\\Important")(9F=315)>
+{1:^80 {(k^97:c)(s=9)} 
+  [3(^88^9D)(^B3^88)(^82^89)(^85^8A)(^81^8B)(^83^8C)(^B6^8D)(^86^8D)
+    (^89=1)(^87^8F)(^9B^91)(^8F=3)(^B7=0)(^B9^93)(^BA^93)(^BB=)(^BE=)
+    (^8A=0)(^9D^9E)(^BF^A0)(^9E^A1)(^8C^A2)]
+  [9(^88^9D)(^B3^94)(^82^89)(^85^8A)(^81^95)(^83^96)(^B6^97)(^86^97)
+    (^89=1)(^87^98)(^9B^91)(^8F=9)(^B7=0)(^B9^9B)(^BA^9B)(^BB^9C)(^BE=)
+    (^8A=0)(^9D=0)(^BF=0)(^9E^9E)(^8C^9F)]}
+{3:^80 {(k^98:c)(s=9)1:m } 3 }
+{9:^80 {(k^98:c)(s=9)2:m } 9 }
+{FFFFFFFD:^9A {(k^99:c)(s=9)} [3(^95^8B)]
+  [9(^95^95)]}
+
+<(82=Notificaciones)(83=8082014)(84=3269669)(85=ee00)(86=23851e3a)(9A=2)>
+{1:^9F {(k^A0:c)(s=9u)} 
+  [1(^AC=1)(^AD=0)(^AE=1)(^AF^82)(^88^83)(^A7^82)(^B0^84)(^B1^85)(^A8^86)
+    (^B2=9)(^A1=2)(^A6=9)(^C7=1)]}
+
+@$${3{@
+@$$}3}@

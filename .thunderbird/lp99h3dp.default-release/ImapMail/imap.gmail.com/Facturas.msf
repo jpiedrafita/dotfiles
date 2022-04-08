@@ -1,0 +1,72 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=X-GM-MSGID)(B9=X-GM-THRID)(BA=X-GM-LABELS)(BB=storeToken)
+  (BC=retainBy)(BD=daysToKeepHdrs)(BE=numHdrsToKeep)(BF=daysToKeepBodies)
+  (C0=useServerDefaults)(C1=cleanupBodies)(C2=applyToFlaggedMessages)
+  (C3=useServerRetention)(80=ns:msg:db:row:scope:msgs:all)(81=subject)
+  (82=sender)(83=message-id)(84=references)(85=recipients)(86=date)
+  (87=size)(88=flags)(89=priority)(8A=label)(8B=statusOfset)(8C=numLines)
+  (8D=ccList)(8E=bccList)(8F=msgThreadId)(90=threadId)(91=threadFlags)
+  (92=threadNewestMsgDate)(93=children)(94=unreadChildren)
+  (95=threadSubject)(96=msgCharSet)(97=ns:msg:db:table:kind:msgs)
+  (98=ns:msg:db:table:kind:thread)(99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)(AD=forceReparse)
+  (AE=fixedBadRefThreading)(AF=onlineName)(B0=highestModSeq)
+  (B1=imapFlags)(B2=highestRecordedUID)
+  (B3=ns:msg:db:row:scope:pending:all)(B4=ns:msg:db:table:kind:pending)
+  (B5=dateReceived)(B6=ProtoThreadFlags)(B7=folderName)>
+<(90=22)(8C=5f630b0d)(81=0)(80=1)>
+[1:m(^9C=22)(^90=22)(^92^8C)(^91=0)(^93=1)]
+<(98=23)(96=5f630a9e)>[2:m(^9C=23)(^90=23)(^92^96)(^91=0)(^93=1)]
+<(A0=24)(9E=5f295f44)>[3:m(^9C=24)(^90=24)(^92^9E)(^91=0)(^93=1)]
+<(A6=25)(A4=5f3ee907)>[4:m(^9C=25)(^90=25)(^92^A4)(^91=0)(^93=1)]
+
+<(A9=81)(88=Pyxel Edit <noreply@pyxeledit.com>)(89
+    =jorgepiedrafita@gmail.com)(8A=Pyxel Edit License)(8B
+    =KXTGKd7oRdyIuhuCYPfaMg@ismtpd0002p1lon1.sendgrid.net)(8D=us-ascii)
+  (8E=14f5)(8F=ffffffff)(91=1678063872164359107)(92="\\\\Important")
+  (AA=1548)(AB=53)>
+{22:^80 {(k^98:c)(s=9)1:m } [22(^88=81)(^82^88)(^85^89)(^81^8A)(^83^8B)
+    (^B5^8C)(^86^8C)(^89=1)(^96^8D)(^87^8E)(^9B^8F)(^8F=22)(^B6=0)(^B8^91)
+    (^B9^91)(^BA^92)(^9D=0)(^BB=0)(^9E^AA)(^8C=53)]}
+
+<(93="Humble Bundle" <noreply@humblebundle.com>)(94
+    ==?utf-8?q?Tu_pedido_de_Pyxel_Edit_est=C3=A1_listo?=)(95
+    =29.9B.21103.E9A036F5@mtl-mtsp-mta04-out2)(97=28d7)(9A
+    =1678063762875139942)(AC=5448)(AD=292a)(AE=9c)(9B
+    =Apple  <no_reply@email.apple.com>)(9C=Tu factura de Apple)(9D
+    =1765160329.3698264.1596546884290@email.apple.com)(9F=9a6e)(A2
+    =1674100750991408327)(B3=da57)(B4=55895)(B5=9ac1)(B6=30b)(A3
+    =208490686.18753571.1597958407292@email.apple.com)(A5=9b92)(A8
+    =1675580837754430394)(AF=3e72)(B0=15986)(B1=9be5)(B2=30f)>
+{1:^80 {(k^97:c)(s=9)} 22 
+  [23(^88=81)(^82^93)(^85^89)(^81^94)(^83^95)(^B5^96)(^86^96)(^89=1)
+    (^87^97)(^9B^8F)(^8F=23)(^B6=0)(^B8^9A)(^B9^9A)(^BA^92)(^9D^AA)
+    (^BB^AC)(^9E^AD)(^8C=9c)]
+  [24(^88=81)(^82^9B)(^85^89)(^81^9C)(^83^9D)(^B5^9E)(^86^9E)(^89=1)
+    (^87^9F)(^9B^8F)(^8F=24)(^B6=0)(^B8^A2)(^B9^A2)(^BA^92)(^9D^B3)
+    (^BB^B4)(^9E^B5)(^8C^B6)]
+  [25(^88=81)(^82^9B)(^85^89)(^81^9C)(^83^A3)(^B5^A4)(^86^A4)(^89=1)
+    (^87^A5)(^9B^8F)(^8F=25)(^B6=0)(^B8^A8)(^B9^A8)(^BA^92)(^9D^AF)
+    (^BB^B0)(^9E^B1)(^8C^B2)]}
+{23:^80 {(k^98:c)(s=9)2:m } 23 }
+{24:^80 {(k^98:c)(s=9)3:m } 24 }
+{25:^80 {(k^98:c)(s=9)4:m } 25 }
+{FFFFFFFD:^9A {(k^99:c)(s=9)} [22(^95^8A)]
+  [23(^95^94)]
+  [24(^95^9C)]
+  [25(^95^9C)]}
+
+<(82=Facturas)(83=8082014)(87=)(85=ee00)(86=23851e35)(A7=4)>
+{1:^9F {(k^A0:c)(s=9u)} 
+  [1(^AC=1)(^AD=0)(^AE=1)(^AF^82)(^88^83)(^A7^82)(^B0=)(^B1^85)(^A8^86)
+    (^B2=25)(^A1=4)(^A6=25)(^C3=1)]}
+
+@$${3{@
+@$$}3}@

@@ -1,0 +1,74 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=X-GM-MSGID)(B9=X-GM-THRID)(BA=X-GM-LABELS)(BB=replyTo)(BC=MRUTime)
+  (BD=storeToken)(BE=sortType)(BF=sortOrder)(C0=viewFlags)(C1=viewType)
+  (C2=columnStates)(C3=sortColumns)(C4=customSortCol)(C5=keywords)
+  (C6=imageSize)(C7=junkscore)(C8=recipient_names)(C9=sender_name)
+  (CA=ns:msg:db:row:scope:ops:all)(CB=ns:msg:db:table:kind:ops)
+  (CC=remoteContentPolicy)(CD=notAPhishMessage)(CE=retainBy)
+  (CF=daysToKeepHdrs)(D0=numHdrsToKeep)(D1=daysToKeepBodies)
+  (D2=useServerDefaults)(D3=cleanupBodies)(D4=applyToFlaggedMessages)
+  (D5=useServerRetention)(D6=op)(D7=msgKey)(D8=opFlags)(D9=newFlags)
+  (DA=moveDest)(DB=msgSize)(DC=inPlayback)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=statusOfset)(8C=numLines)(8D=ccList)(8E=bccList)
+  (8F=msgThreadId)(90=threadId)(91=threadFlags)(92=threadNewestMsgDate)
+  (93=children)(94=unreadChildren)(95=threadSubject)(96=msgCharSet)
+  (97=ns:msg:db:table:kind:msgs)(98=ns:msg:db:table:kind:thread)
+  (99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)(AD=forceReparse)
+  (AE=fixedBadRefThreading)(AF=onlineName)(B0=highestModSeq)
+  (B1=imapFlags)(B2=highestRecordedUID)
+  (B3=ns:msg:db:row:scope:pending:all)(B4=ns:msg:db:table:kind:pending)
+  (B5=dateReceived)(B6=ProtoThreadFlags)(B7=folderName)>
+<(90=2d3)(8B=61b735a4)(81=0)(80=1)>
+[1:m(^9C^90)(^90^90)(^92^8B)(^91=0)(^93=1)]
+<(98=2e5)>[2:m(^9C^98)(^90^98)(^92=0)(^91=0)(^93=0)(^94=0)]
+<(A0=2e6)>[3:m(^9C^A0)(^90^A0)(^92=0)(^91=0)(^93=0)(^94=0)]
+<(A5=2e7)>[4:m(^9C^A5)(^90^A5)(^92=0)(^91=0)(^93=0)(^94=0)]
+
+<(B3=10000081)(87=Jorge Piedrafita <jorgepiedrafita@gmail.com>)(88
+    =Jorge Piedrafita <reventlovgis@gmail.com>)(89
+    =aesa_formulario_reclamacion_cia.pdf)(8A
+    =E43C2323-0164-42AC-A82E-6F00701F9377@gmail.com)(8D=58a59)(8F=ffffffff)
+  (86=)(B1=91b3)(B2=37299)(B4=58aac)(B5=124c)(BA=0|Jorge Piedrafita)>
+{1:^80 {(k^97:c)(s=9)} 
+  [2D3(^88^B3)(^82^87)(^85^88)(^81^89)(^83^8A)(^B5^8B)(^86^8B)(^89=1)
+    (^87^8D)(^9B^8F)(^8F^90)(^B6=0)(^B8=)(^B9=)(^BA=)(^9D^B1)(^BD^B2)
+    (^9E^B4)(^8C^B5)(^C8^BA)(^C5=)(^8A=0)]}
+{2D3:^80 {(k^98:c)(s=9)1:m } 2D3 }
+{FFFFFFFD:^9A {(k^99:c)(s=9)} [2D3(^95^89)]}
+
+<(82=INBOX)(83=8083014)(BF=360546)(85=ee00)(BE=1648993209)(B7=12)(B9
+    ={"selectCol":{"visible":false,"ordinal":"1"},"threadCol":{"visible":true,\
+"ordinal":"3"},"flaggedCol":{"visible":true,"ordinal":"5"},"attachmentCol":{"v\
+isible":true,"ordinal":"7"},"subjectCol":{"visible":true,"ordinal":"15"},"unre\
+adButtonColHeader":{"visible":true,"ordinal":"9"},"senderCol":{"visible":false\
+,"ordinal":"17"},"recipientCol":{"visible":false,"ordinal":"19"},"corresponden\
+tCol":{"visible":true,"ordinal":"21"},"junkStatusCol":{"visible":true,"ordinal\
+":"11"},"receivedCol":{"visible":false,"ordinal":"23"},"dateCol":{"visible":tr\
+ue,"ordinal":"25"},"statusCol":{"visible":false,"ordinal":"27"},"sizeCol":{"vi\
+sible":false,"ordinal":"29"},"tagsCol":{"visible":false,"ordinal":"31"},"accou\
+ntCol":{"visible":false,"ordinal":"33"},"priorityCol":{"visible":false,"ordina\
+l":"35"},"unreadCol":{"visible":false,"ordinal":"37"},"totalCol":{"visible":fa\
+lse,"ordinal":"39"},"locationCol":{"visible":false,"ordinal":"41"},"idCol":{"v\
+isible":false,"ordinal":"43"},"deleteCol":{"visible":false,"ordinal":"13"}})>
+{1:^9F {(k^A0:c)(s=9)} 
+  [1(^AC=1)(^AD=0)(^AE=1)(^AF^82)(^88^83)(^A7^82)(^B0^BF)(^B1^85)(^A8=1)
+    (^B2^A5)(^A1=1)(^A6^A5)(^A2=0)(^BC^BE)(^BE=12)(^BF=1)(^C0=0)(^C1=0)
+    (^C3=)(^C2^B9)(^D5=1)(^A4^B1)]}
+
+@$${11{@
+@$$}11}@
+
+@$${15{@
+<(C0=360585)>[1:^9F(^B0^C0)]
+{-1:^CA {(k^CB:c)(s=9)} }
+@$$}15}@
