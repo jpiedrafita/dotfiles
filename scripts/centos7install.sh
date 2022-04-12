@@ -11,9 +11,10 @@ yum install -y epel-release
 yum install https://packages.endpointdev.com/rhel/7/os/x86_64/endpoint-repo.x86_64.rpm
 
 # Install yum utilities
-yum update && yum install -y tree git python3 neofetch dnf snapd
+yum update && yum install -y tree git python3 dnf snapd
 systemctl enable --now snapd.socket
 #dnf -y install dnf-plugins-core
+dnf install neofetch
 
 # Update curl latest version using city-fan --> required for homebrew
 rpm -Uvh http://www.city-fan.org/ftp/contrib/yum-repo/rhel8/x86_64/city-fan.org-release-2-2.rhel8.noarch.rpm
