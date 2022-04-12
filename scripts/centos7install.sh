@@ -4,7 +4,8 @@
 ###### Repos ######
 ###################
 
-yum update
+yum update -y
+yum install -y epel-release
  
 # Add centos7 endpoint x86_64 repo
 yum install https://packages.endpointdev.com/rhel/7/os/x86_64/endpoint-repo.x86_64.rpm
