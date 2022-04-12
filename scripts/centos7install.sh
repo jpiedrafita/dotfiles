@@ -8,10 +8,10 @@ yum update -y
 yum install -y epel-release
  
 # Add centos7 endpoint x86_64 repo
-yum install https://packages.endpointdev.com/rhel/7/os/x86_64/endpoint-repo.x86_64.rpm
+yum install -y https://packages.endpointdev.com/rhel/7/os/x86_64/endpoint-repo.x86_64.rpm
 
 # Install yum utilities
-yum update && yum install -y tree git python3 dnf snapd
+yum update -y && yum install -y tree git python3 dnf snapd
 systemctl enable --now snapd.socket
 #dnf -y install dnf-plugins-core
 dnf install neofetch
@@ -39,7 +39,7 @@ yum install -y chrome-gnome-shell gnome-tweak-tool sassc intltool
 # Enable gnome classic/modern
 
 # Install conky
-yum install conky conky-manager
+yum install -y conky conky-manager
 
 # Terminal
 # Gnome nord terminal
